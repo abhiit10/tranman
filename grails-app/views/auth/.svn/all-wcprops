@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/tdstm/!svn/ver/4085/trunk/grails-app/views/auth
+END
+home.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/tdstm/!svn/ver/4085/trunk/grails-app/views/auth/home.gsp
+END
+asset.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/tdstm/!svn/ver/114/trunk/grails-app/views/auth/asset.gsp
+END
+masters.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tdstm/!svn/ver/114/trunk/grails-app/views/auth/masters.gsp
+END
+login.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/tdstm/!svn/ver/3575/trunk/grails-app/views/auth/login.gsp
+END

@@ -1,0 +1,31 @@
+10
+
+dir
+4383
+http://svn.tdsops.com/svn/tdstm/trunk/src/java/net/sf/jasperreports
+http://svn.tdsops.com/svn/tdstm
+
+
+
+2009-04-20T14:42:17.437169Z
+322
+srinivas
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+fecba46a-3362-0410-80e5-8c76cdb905a0
+
+renderers
+dir
+

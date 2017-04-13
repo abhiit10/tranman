@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/tdstm/!svn/ver/4199/trunk/grails-app/realms
+END
+ShiroActiveDirectoryRealm.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/tdstm/!svn/ver/4199/trunk/grails-app/realms/ShiroActiveDirectoryRealm.groovy
+END
+ShiroDbRealm.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/tdstm/!svn/ver/4197/trunk/grails-app/realms/ShiroDbRealm.groovy
+END

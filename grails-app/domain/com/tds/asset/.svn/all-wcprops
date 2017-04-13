@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/tdstm/!svn/ver/4343/trunk/grails-app/domain/com/tds/asset
+END
+ApplicationAssetMap.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/tdstm/!svn/ver/1755/trunk/grails-app/domain/com/tds/asset/ApplicationAssetMap.groovy
+END
+Database.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/tdstm/!svn/ver/4209/trunk/grails-app/domain/com/tds/asset/Database.groovy
+END
+AssetDependency.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/tdstm/!svn/ver/4100/trunk/grails-app/domain/com/tds/asset/AssetDependency.groovy
+END
+Files.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/tdstm/!svn/ver/4209/trunk/grails-app/domain/com/tds/asset/Files.groovy
+END
+AssetEntity.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/tdstm/!svn/ver/4343/trunk/grails-app/domain/com/tds/asset/AssetEntity.groovy
+END
+CommentNote.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/tdstm/!svn/ver/2703/trunk/grails-app/domain/com/tds/asset/CommentNote.groovy
+END
+TaskDependency.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/tdstm/!svn/ver/3731/trunk/grails-app/domain/com/tds/asset/TaskDependency.groovy
+END
+Application.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/tdstm/!svn/ver/4215/trunk/grails-app/domain/com/tds/asset/Application.groovy
+END
+AssetComment.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/tdstm/!svn/ver/4267/trunk/grails-app/domain/com/tds/asset/AssetComment.groovy
+END
+AssetCableMap.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/tdstm/!svn/ver/3967/trunk/grails-app/domain/com/tds/asset/AssetCableMap.groovy
+END
+AssetOptions.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/tdstm/!svn/ver/4309/trunk/grails-app/domain/com/tds/asset/AssetOptions.groovy
+END
+FieldImportance.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/tdstm/!svn/ver/3332/trunk/grails-app/domain/com/tds/asset/FieldImportance.groovy
+END
+AssetEntityType.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/tdstm/!svn/ver/4103/trunk/grails-app/domain/com/tds/asset/AssetEntityType.groovy
+END
+AssetType.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/tdstm/!svn/ver/4072/trunk/grails-app/domain/com/tds/asset/AssetType.groovy
+END
+AssetEntityVarchar.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/tdstm/!svn/ver/1755/trunk/grails-app/domain/com/tds/asset/AssetEntityVarchar.groovy
+END
+AssetTransition.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/tdstm/!svn/ver/1755/trunk/grails-app/domain/com/tds/asset/AssetTransition.groovy
+END
+AssetDependencyBundle.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/tdstm/!svn/ver/2755/trunk/grails-app/domain/com/tds/asset/AssetDependencyBundle.groovy
+END

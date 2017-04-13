@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/tdstm/!svn/ver/1216/trunk/plugins/jasper-1.0.0
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/tdstm/!svn/ver/1216/trunk/plugins/jasper-1.0.0/LICENSE
+END
+application.properties
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/tdstm/!svn/ver/1216/trunk/plugins/jasper-1.0.0/application.properties
+END
+dependencies.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/tdstm/!svn/ver/1216/trunk/plugins/jasper-1.0.0/dependencies.groovy
+END
+plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/tdstm/!svn/ver/1216/trunk/plugins/jasper-1.0.0/plugin.xml
+END
+JasperGrailsPlugin.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/tdstm/!svn/ver/1216/trunk/plugins/jasper-1.0.0/JasperGrailsPlugin.groovy
+END

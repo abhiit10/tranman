@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/tdstm/!svn/ver/1313/trunk/web-app/WEB-INF/workflow
+END
+caiso1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/tdstm/!svn/ver/1313/trunk/web-app/WEB-INF/workflow/caiso1.xml
+END
+workflow_standard.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/tdstm/!svn/ver/1313/trunk/web-app/WEB-INF/workflow/workflow_standard.xml
+END
+devon1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/tdstm/!svn/ver/1313/trunk/web-app/WEB-INF/workflow/devon1.xml
+END
+workflow_detailed.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/tdstm/!svn/ver/1313/trunk/web-app/WEB-INF/workflow/workflow_detailed.xml
+END
+celanese.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/tdstm/!svn/ver/1313/trunk/web-app/WEB-INF/workflow/celanese.xml
+END
+beckman1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/tdstm/!svn/ver/1313/trunk/web-app/WEB-INF/workflow/beckman1.xml
+END
+beckman2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/tdstm/!svn/ver/1313/trunk/web-app/WEB-INF/workflow/beckman2.xml
+END
+beckman3.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/tdstm/!svn/ver/1313/trunk/web-app/WEB-INF/workflow/beckman3.xml
+END

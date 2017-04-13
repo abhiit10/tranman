@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/tdstm/!svn/ver/3641/trunk/grails-app/views/manufacturer
+END
+edit.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/tdstm/!svn/ver/3202/trunk/grails-app/views/manufacturer/edit.gsp
+END
+create.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/tdstm/!svn/ver/3469/trunk/grails-app/views/manufacturer/create.gsp
+END
+show.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/tdstm/!svn/ver/3641/trunk/grails-app/views/manufacturer/show.gsp
+END
+list.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/tdstm/!svn/ver/3586/trunk/grails-app/views/manufacturer/list.gsp
+END
+autoCompleteManufacturer.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/tdstm/!svn/ver/2927/trunk/grails-app/views/manufacturer/autoCompleteManufacturer.gsp
+END

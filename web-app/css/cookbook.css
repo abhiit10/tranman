@@ -1,0 +1,275 @@
+/* Cookbook Styles */
+
+.paginationWrapper{
+	text-align: center;
+}
+
+.ngGridTable{
+	border:1px solid #ddd;
+	margin-bottom: 0;
+}
+
+.ngGridTable tr th, .ngGridTable tr td{
+	border-rigth:1px solid #ddd;
+	border-left:1px solid #ddd;
+}
+
+.ngGridTable tr th:nth-child(6), .ngGridTable tr td:nth-child(6){
+	text-align: right;
+}
+
+.ngGridTable tr th:nth-child(7), .ngGridTable tr td:nth-child(7), .ngGridTable tr th:nth-child(8), .ngGridTable tr td:nth-child(8), .ngGridTable tr th:nth-child(9), .ngGridTable tr td:nth-child(9){
+	text-align: center;
+}
+
+.ngGridCellEdit {
+    width: 98%;	
+    margin-top: 2px;
+    margin-left: 2px;
+}
+
+ul{
+	padding-left: 25px;
+}
+
+.alert{
+	position: fixed;
+	width:300px;
+	left:50%;
+	margin-left:-15%;
+	top:5%;
+	z-index:100;
+	padding:5px 15px;
+	text-align:center;
+	/*display: none;*/
+}
+
+.modal-dialog{
+	width:800px;
+}
+
+.modal-dialog h3{
+	margin:0;
+}
+
+.modal-dialog .selectLabel{
+	padding-top:2px;
+}
+
+.fullWidth{width: 100%}
+
+#gridControls{margin-top:15px;}
+
+.tab-content{
+	padding: 15px;
+	border-left: 1px solid #ddd;
+	border-right: 1px solid #ddd;
+	border-bottom: 1px solid #ddd;
+}
+
+.ngCell > div{
+	height: 100%;
+}
+
+.innerTabWrapper{
+	margin: 15px 0 0 0;
+}
+
+.historyMainTable table tr > th:nth-child(2), .historyMainTable table tr > td:nth-child(2), .historyMainTable table tr > th:nth-child(5), .historyMainTable table tr > td:nth-child(5){
+	text-align: right;
+}
+
+.historyMainTable table tr > th:nth-child(6), .historyMainTable table tr > td:nth-child(6), .historyMainTable table tr > th:nth-child(7), .historyMainTable table tr > td:nth-child(7){
+	text-align: center;
+}
+
+.actionsText{
+	margin: 15px 0;
+}
+
+#logsArea, #recipeCode{
+	display: block;
+	width: 100%;
+}
+
+#recipeCode{
+	height: 200px;
+}
+
+.btns{
+	margin:15px 0 0 0;
+}
+
+textarea#logs, .syntaxErrors{
+	height:167px;
+	width:100%;
+}
+
+form.groups{
+	margin-bottom: 1em;
+}
+
+.groupsTable, .groupsTable2{
+	height:150px;
+	overflow-y: auto;
+}
+
+.groupsTable2{
+	margin:15px 0 0 0;
+}
+
+.groupsTable table tr > th:nth-child(3), .groupsTable table tr > td:nth-child(3){
+	text-align: right;
+}
+
+.gridStyle {
+	border: 1px solid rgb(212,212,212);
+	box-sizing: content-box;
+	width: 100%;
+	height: 154px;
+	overflow-y: auto;
+	margin: 0 0 10px 0;
+}
+
+.gridStyleTasks, .gridStyleGroups{
+	border: 1px solid rgb(212,212,212);
+	height: 154px;
+	margin: 0 0 10px 0;
+	overflow-x: hidden;
+	overflow-y: auto;
+}
+
+.gridIcon{
+	display: table;
+	height: 100%;
+	width: 100%;
+	padding: 0 10px;
+}
+
+.createRecipe{
+	margin: 17px 0;
+}
+
+.actions{
+	display: table-cell;
+	vertical-align: middle;
+	margin-right:5px;
+}
+
+.actions:last-child{
+	margin-right:0;
+}
+
+.actions.disabled{
+	opacity: 0.3;
+	color: #333;
+	cursor: default;
+}
+
+form .error-msg{
+	margin:0.5em 0 0 0;
+}
+
+.archiveCheckWrapper{margin:5px 0 0 0;}
+
+.versionLinks{
+	margin: 7px 0;
+}
+
+.versionLinks label{
+	font-weight: normal;
+}
+
+/*animations*/
+.alert{
+	-webkit-transition:all ease 0.5s;
+	transition:all ease 0.5s;
+	top:-200px;
+}
+
+.alert.animateShow {
+	top:35px;
+}
+/****/
+
+/* Code Mirror Stuff */
+.CodeMirror{
+	height: 400px;
+}
+
+.CodeMirror-lines pre{
+	display: block;
+	padding: 0;
+	margin: 0;
+	font-size: 1em;
+	line-height: 1em;
+	color: #333333;
+	word-break: normal;
+	word-wrap: normal;
+	background-color: transparent;
+	border: none;
+	border-radius: 0;
+}
+/******/
+
+/* Code Diff Stuff */
+
+.codeDiff {
+	height: 420px;
+}
+
+.codeDiffHeaderLeft {
+	margin-left: 5px;
+}
+
+.codeDiffHeaderRight {
+	float: right;
+	margin-right: 15px;
+}
+
+/******/
+
+/* Validate Syntax Stuff */
+.syntaxErrors{
+	overflow: auto;
+	border: 1px solid #ddd;
+	margin: 0;
+}
+
+.syntaxErrors > li p:first-child{
+	margin: 0;
+}
+/*****/
+
+/* Tasks */
+form.taskGeneration{
+	padding: 10px 0 0 0;
+}
+
+form.taskGeneration label.inline, .groups label.inline{
+	margin: 0 5% 0 0;
+	display: inline;
+}
+
+form.taskGeneration label.inline select{
+	max-width: 20%;
+}
+
+form.taskGeneration label[for="autoPublishTasks"], .completionWrapper, .generateWrapper, .progressWrapper, .completionButtons{
+	margin-top: 20px;
+}
+
+.progressWrapper .progress{
+	margin-bottom: 0px;
+}
+
+.selectorsHideShow{
+	margin: 8px 0 0 0;
+	display: inline-block;
+}
+
+a:hover{
+	text-decoration: none;
+	font-weight: normal;
+	cursor: pointer;
+}

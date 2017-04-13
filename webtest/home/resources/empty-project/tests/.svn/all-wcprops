@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/tdstm/!svn/ver/123/trunk/webtest/home/resources/empty-project/tests
+END
+googleWebTestSteps.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/tdstm/!svn/ver/123/trunk/webtest/home/resources/empty-project/tests/googleWebTestSteps.xml
+END
+googleWebTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/tdstm/!svn/ver/123/trunk/webtest/home/resources/empty-project/tests/googleWebTest.xml
+END
+WebTestConferenceTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/tdstm/!svn/ver/123/trunk/webtest/home/resources/empty-project/tests/WebTestConferenceTest.groovy
+END
+allTests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/tdstm/!svn/ver/123/trunk/webtest/home/resources/empty-project/tests/allTests.xml
+END
+webTestConference.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/tdstm/!svn/ver/123/trunk/webtest/home/resources/empty-project/tests/webTestConference.xml
+END
+GoogleWebtestTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/tdstm/!svn/ver/123/trunk/webtest/home/resources/empty-project/tests/GoogleWebtestTest.groovy
+END

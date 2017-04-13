@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/tdstm/!svn/ver/229/trunk/plugins/eav-model-0.1/scripts
+END
+_Install.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/tdstm/!svn/ver/229/trunk/plugins/eav-model-0.1/scripts/_Install.groovy
+END
+_Upgrade.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/tdstm/!svn/ver/229/trunk/plugins/eav-model-0.1/scripts/_Upgrade.groovy
+END

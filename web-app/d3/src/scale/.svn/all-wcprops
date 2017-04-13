@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/scale
+END
+index.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/scale/index.js
+END
+ordinal.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/scale/ordinal.js
+END
+polylinear.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/scale/polylinear.js
+END
+quantize.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/scale/quantize.js
+END
+bilinear.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/scale/bilinear.js
+END
+threshold.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/scale/threshold.js
+END
+scale.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/scale/scale.js
+END
+linear.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/scale/linear.js
+END
+log.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/scale/log.js
+END
+sqrt.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/scale/sqrt.js
+END
+quantile.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/scale/quantile.js
+END
+identity.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/scale/identity.js
+END
+category.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/scale/category.js
+END
+nice.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/scale/nice.js
+END
+pow.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/scale/pow.js
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/tdstm/!svn/ver/4359/trunk/grails-app/views/project
+END
+edit.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tdstm/!svn/ver/4332/trunk/grails-app/views/project/edit.gsp
+END
+create.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/tdstm/!svn/ver/4332/trunk/grails-app/views/project/create.gsp
+END
+show.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tdstm/!svn/ver/4332/trunk/grails-app/views/project/show.gsp
+END
+editImportance.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/tdstm/!svn/ver/4332/trunk/grails-app/views/project/editImportance.gsp
+END
+list.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tdstm/!svn/ver/3904/trunk/grails-app/views/project/list.gsp
+END
+fieldImportance.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/tdstm/!svn/ver/4359/trunk/grails-app/views/project/fieldImportance.gsp
+END
+showImportance.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/tdstm/!svn/ver/4332/trunk/grails-app/views/project/showImportance.gsp
+END

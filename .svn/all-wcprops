@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/tdstm/!svn/ver/4381/trunk
+END
+metrics.sh
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/tdstm/!svn/ver/2386/trunk/metrics.sh
+END
+application.properties
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/tdstm/!svn/ver/3382/trunk/application.properties
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/tdstm/!svn/ver/251/trunk/build.xml
+END
+runapp.sh
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/tdstm/!svn/ver/3712/trunk/runapp.sh
+END
+.svnignore
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/tdstm/!svn/ver/2465/trunk/.svnignore
+END

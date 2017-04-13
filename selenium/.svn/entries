@@ -1,0 +1,71 @@
+10
+
+dir
+4383
+http://svn.tdsops.com/svn/tdstm/trunk/selenium
+http://svn.tdsops.com/svn/tdstm
+
+
+
+2012-09-18T14:21:20.477345Z
+2666
+lokanada
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+fecba46a-3362-0410-80e5-8c76cdb905a0
+
+Asset_Import
+dir
+
+Scripts
+dir
+
+UserExtensionFiles
+dir
+
+tm-suite-create
+file
+
+
+
+
+2013-12-27T06:26:09.787000Z
+8a65b0bb5119074aa9ee12ea9c4d4383
+2010-02-18T18:34:30.510235Z
+881
+craig
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+766
+

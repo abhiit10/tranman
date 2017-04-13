@@ -1,0 +1,311 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/tdstm/!svn/ver/4343/trunk/grails-app/domain
+END
+PartyGroup.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/tdstm/!svn/ver/988/trunk/grails-app/domain/PartyGroup.groovy
+END
+PartyRelationshipType.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/tdstm/!svn/ver/63/trunk/grails-app/domain/PartyRelationshipType.groovy
+END
+ProjectTeam.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/tdstm/!svn/ver/1755/trunk/grails-app/domain/ProjectTeam.groovy
+END
+DataTransferAttributeMap.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/tdstm/!svn/ver/1852/trunk/grails-app/domain/DataTransferAttributeMap.groovy
+END
+TaskBatch.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/tdstm/!svn/ver/4317/trunk/grails-app/domain/TaskBatch.groovy
+END
+MoveBundle.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/tdstm/!svn/ver/4215/trunk/grails-app/domain/MoveBundle.groovy
+END
+KeyValue.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tdstm/!svn/ver/3505/trunk/grails-app/domain/KeyValue.groovy
+END
+RoleType.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tdstm/!svn/ver/170/trunk/grails-app/domain/RoleType.groovy
+END
+Recipe.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/tdstm/!svn/ver/4304/trunk/grails-app/domain/Recipe.groovy
+END
+MoveEventSnapshot.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/tdstm/!svn/ver/3043/trunk/grails-app/domain/MoveEventSnapshot.groovy
+END
+DataTransferSet.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/tdstm/!svn/ver/295/trunk/grails-app/domain/DataTransferSet.groovy
+END
+ManufacturerSync.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/tdstm/!svn/ver/1533/trunk/grails-app/domain/ManufacturerSync.groovy
+END
+Model.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/tdstm/!svn/ver/4022/trunk/grails-app/domain/Model.groovy
+END
+WorkflowTransitionMap.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/tdstm/!svn/ver/2436/trunk/grails-app/domain/WorkflowTransitionMap.groovy
+END
+ModelAlias.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/tdstm/!svn/ver/3649/trunk/grails-app/domain/ModelAlias.groovy
+END
+UserPreference.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/tdstm/!svn/ver/376/trunk/grails-app/domain/UserPreference.groovy
+END
+Permissions.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/tdstm/!svn/ver/2851/trunk/grails-app/domain/Permissions.groovy
+END
+PartyType.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tdstm/!svn/ver/92/trunk/grails-app/domain/PartyType.groovy
+END
+ModelConnectorSync.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/tdstm/!svn/ver/2436/trunk/grails-app/domain/ModelConnectorSync.groovy
+END
+MoveBundleStep.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/tdstm/!svn/ver/1230/trunk/grails-app/domain/MoveBundleStep.groovy
+END
+PartyRelationship.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/tdstm/!svn/ver/3506/trunk/grails-app/domain/PartyRelationship.groovy
+END
+DataTransferValue.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/tdstm/!svn/ver/604/trunk/grails-app/domain/DataTransferValue.groovy
+END
+PartyRole.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tdstm/!svn/ver/55/trunk/grails-app/domain/PartyRole.groovy
+END
+MoveEventNews.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/tdstm/!svn/ver/988/trunk/grails-app/domain/MoveEventNews.groovy
+END
+Room.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/tdstm/!svn/ver/3650/trunk/grails-app/domain/Room.groovy
+END
+Project.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tdstm/!svn/ver/4343/trunk/grails-app/domain/Project.groovy
+END
+Rack.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/tdstm/!svn/ver/3650/trunk/grails-app/domain/Rack.groovy
+END
+MoveEventStaff.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/tdstm/!svn/ver/2779/trunk/grails-app/domain/MoveEventStaff.groovy
+END
+ExceptionDates.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/tdstm/!svn/ver/2743/trunk/grails-app/domain/ExceptionDates.groovy
+END
+ModelSyncBatch.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/tdstm/!svn/ver/2958/trunk/grails-app/domain/ModelSyncBatch.groovy
+END
+Person.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/tdstm/!svn/ver/4209/trunk/grails-app/domain/Person.groovy
+END
+Swimlane.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tdstm/!svn/ver/2436/trunk/grails-app/domain/Swimlane.groovy
+END
+WorkflowTransition.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/tdstm/!svn/ver/3236/trunk/grails-app/domain/WorkflowTransition.groovy
+END
+Manufacturer.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/tdstm/!svn/ver/2896/trunk/grails-app/domain/Manufacturer.groovy
+END
+StepSnapshot.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/tdstm/!svn/ver/3043/trunk/grails-app/domain/StepSnapshot.groovy
+END
+PermissionGroup.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/tdstm/!svn/ver/3979/trunk/grails-app/domain/PermissionGroup.groovy
+END
+RolePermissions.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/tdstm/!svn/ver/3043/trunk/grails-app/domain/RolePermissions.groovy
+END
+DataTransferComment.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/tdstm/!svn/ver/604/trunk/grails-app/domain/DataTransferComment.groovy
+END
+RecipeVersion.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/tdstm/!svn/ver/4244/trunk/grails-app/domain/RecipeVersion.groovy
+END
+MoveEvent.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/tdstm/!svn/ver/4215/trunk/grails-app/domain/MoveEvent.groovy
+END
+AppMoveEvent.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/tdstm/!svn/ver/2436/trunk/grails-app/domain/AppMoveEvent.groovy
+END
+Party.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/tdstm/!svn/ver/3790/trunk/grails-app/domain/Party.groovy
+END
+DataTransferBatch.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/tdstm/!svn/ver/1844/trunk/grails-app/domain/DataTransferBatch.groovy
+END
+ProjectAssetMap.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/tdstm/!svn/ver/1755/trunk/grails-app/domain/ProjectAssetMap.groovy
+END
+ModelSync.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/tdstm/!svn/ver/2846/trunk/grails-app/domain/ModelSync.groovy
+END
+ModelConnector.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/tdstm/!svn/ver/3888/trunk/grails-app/domain/ModelConnector.groovy
+END
+ProjectLogo.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/tdstm/!svn/ver/604/trunk/grails-app/domain/ProjectLogo.groovy
+END
+ManufacturerAlias.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/tdstm/!svn/ver/2896/trunk/grails-app/domain/ManufacturerAlias.groovy
+END
+Workflow.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tdstm/!svn/ver/2436/trunk/grails-app/domain/Workflow.groovy
+END
+UserLogin.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/tdstm/!svn/ver/4172/trunk/grails-app/domain/UserLogin.groovy
+END
+ContactMech.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/tdstm/!svn/ver/604/trunk/grails-app/domain/ContactMech.groovy
+END

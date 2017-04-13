@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/arrays
+END
+permute.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/arrays/permute.js
+END
+keys.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/arrays/keys.js
+END
+index.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/arrays/index.js
+END
+min.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/arrays/min.js
+END
+entries.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/arrays/entries.js
+END
+sum.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/arrays/sum.js
+END
+extent.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/arrays/extent.js
+END
+bisect.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/arrays/bisect.js
+END
+median.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/arrays/median.js
+END
+mean.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/arrays/mean.js
+END
+max.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/arrays/max.js
+END
+set.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/arrays/set.js
+END
+values.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/arrays/values.js
+END
+zip.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/arrays/zip.js
+END
+quantile.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/arrays/quantile.js
+END
+range.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/arrays/range.js
+END
+map.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/arrays/map.js
+END
+pairs.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/arrays/pairs.js
+END
+transpose.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/arrays/transpose.js
+END
+shuffle.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/arrays/shuffle.js
+END
+nest.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/arrays/nest.js
+END
+ascending.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/arrays/ascending.js
+END
+merge.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/arrays/merge.js
+END
+descending.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/arrays/descending.js
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/tdstm/!svn/ver/2398/trunk/plugins/mail-1.0
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/tdstm/!svn/ver/2398/trunk/plugins/mail-1.0/LICENSE
+END
+application.properties
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/tdstm/!svn/ver/2398/trunk/plugins/mail-1.0/application.properties
+END
+dependencies.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/tdstm/!svn/ver/2398/trunk/plugins/mail-1.0/dependencies.groovy
+END
+MailGrailsPlugin.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/tdstm/!svn/ver/2398/trunk/plugins/mail-1.0/MailGrailsPlugin.groovy
+END
+plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/tdstm/!svn/ver/2398/trunk/plugins/mail-1.0/plugin.xml
+END

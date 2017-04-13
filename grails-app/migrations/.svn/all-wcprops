@@ -1,0 +1,491 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/tdstm/!svn/ver/4343/trunk/grails-app/migrations
+END
+20130322-update-custom-field-shown.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/tdstm/!svn/ver/3131/trunk/grails-app/migrations/20130322-update-custom-field-shown.groovy
+END
+20140306-add-is-local-column-to-user-login-table.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/tdstm/!svn/ver/4107/trunk/grails-app/migrations/20140306-add-is-local-column-to-user-login-table.groovy
+END
+20130718-add-asset-edit-delete-permission.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/tdstm/!svn/ver/4232/trunk/grails-app/migrations/20130718-add-asset-edit-delete-permission.groovy
+END
+20130423-add-import-export-permission.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/tdstm/!svn/ver/3219/trunk/grails-app/migrations/20130423-add-import-export-permission.groovy
+END
+20140307-sequence-logic.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/tdstm/!svn/ver/4171/trunk/grails-app/migrations/20140307-sequence-logic.groovy
+END
+20131211-asset-cable-map-rebuild.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/tdstm/!svn/ver/3991/trunk/grails-app/migrations/20131211-asset-cable-map-rebuild.groovy
+END
+20131014-delete-orphan-records-room-rack.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/tdstm/!svn/ver/3750/trunk/grails-app/migrations/20131014-delete-orphan-records-room-rack.groovy
+END
+20140403-add-version-column-in-eav-entity-table.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/tdstm/!svn/ver/4241/trunk/grails-app/migrations/20140403-add-version-column-in-eav-entity-table.groovy
+END
+20121210-fix-models-manu-nulldates.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/tdstm/!svn/ver/2859/trunk/grails-app/migrations/20121210-fix-models-manu-nulldates.groovy
+END
+20140428-add-description-field-to-eav-attribute.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/tdstm/!svn/ver/4336/trunk/grails-app/migrations/20140428-add-description-field-to-eav-attribute.groovy
+END
+20130924-add-column-dep_console_grouping_criteria-project.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/tdstm/!svn/ver/3705/trunk/grails-app/migrations/20130924-add-column-dep_console_grouping_criteria-project.groovy
+END
+20130712-change-asset-new-or-old-field-to-plan-status.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/tdstm/!svn/ver/3462/trunk/grails-app/migrations/20130712-change-asset-new-or-old-field-to-plan-status.groovy
+END
+20130125-update-plantatus-validation.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/tdstm/!svn/ver/2996/trunk/grails-app/migrations/20130125-update-plantatus-validation.groovy
+END
+20130522-create-default-project.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/tdstm/!svn/ver/3304/trunk/grails-app/migrations/20130522-create-default-project.groovy
+END
+20130624-update-recent-users-expiry-dates.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/tdstm/!svn/ver/3363/trunk/grails-app/migrations/20130624-update-recent-users-expiry-dates.groovy
+END
+20121214-drop-aka.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/tdstm/!svn/ver/2886/trunk/grails-app/migrations/20121214-drop-aka.groovy
+END
+20131004-size-scale-rateOfChange-properties-into-AssetEntity.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/tdstm/!svn/ver/3743/trunk/grails-app/migrations/20131004-size-scale-rateOfChange-properties-into-AssetEntity.groovy
+END
+20140327-modify-owner-frontend-label-to-appOwner.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/tdstm/!svn/ver/4213/trunk/grails-app/migrations/20140327-modify-owner-frontend-label-to-appOwner.groovy
+END
+20140417-insert-environment-options-in-asset-options-table.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/tdstm/!svn/ver/4309/trunk/grails-app/migrations/20140417-insert-environment-options-in-asset-options-table.groovy
+END
+changelog.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/tdstm/!svn/ver/4343/trunk/grails-app/migrations/changelog.groovy
+END
+20130709-add-new-fields-application-table.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/tdstm/!svn/ver/3433/trunk/grails-app/migrations/20130709-add-new-fields-application-table.groovy
+END
+20140305-add-custom-fields-to-dependencies.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/tdstm/!svn/ver/4100/trunk/grails-app/migrations/20140305-add-custom-fields-to-dependencies.groovy
+END
+20130924-add-table-test-domain.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/tdstm/!svn/ver/3710/trunk/grails-app/migrations/20130924-add-table-test-domain.groovy
+END
+20121218-update-version-on-manu-model.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/tdstm/!svn/ver/2888/trunk/grails-app/migrations/20121218-update-version-on-manu-model.groovy
+END
+20130530-add-person-permission.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/tdstm/!svn/ver/3309/trunk/grails-app/migrations/20130530-add-person-permission.groovy
+END
+20130109-alter-validation-column.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/tdstm/!svn/ver/2945/trunk/grails-app/migrations/20130109-alter-validation-column.groovy
+END
+20121224-cleanup-excel-templates.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/tdstm/!svn/ver/2914/trunk/grails-app/migrations/20121224-cleanup-excel-templates.groovy
+END
+20130125-add-entity-validation.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/tdstm/!svn/ver/2994/trunk/grails-app/migrations/20130125-add-entity-validation.groovy
+END
+20130521-add-missing-eav-attribute.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/tdstm/!svn/ver/3287/trunk/grails-app/migrations/20130521-add-missing-eav-attribute.groovy
+END
+20140313-task-batch-context-type.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/tdstm/!svn/ver/4137/trunk/grails-app/migrations/20140313-task-batch-context-type.groovy
+END
+20140211-add-25-to-48-custom-fields.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/tdstm/!svn/ver/4000/trunk/grails-app/migrations/20140211-add-25-to-48-custom-fields.groovy
+END
+20130912-add-columns-for-runbook-optimization.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/tdstm/!svn/ver/3731/trunk/grails-app/migrations/20130912-add-columns-for-runbook-optimization.groovy
+END
+20121218-add-indexes-model-tables.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/tdstm/!svn/ver/2891/trunk/grails-app/migrations/20121218-add-indexes-model-tables.groovy
+END
+20140205-add-new-permissions.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/tdstm/!svn/ver/3979/trunk/grails-app/migrations/20140205-add-new-permissions.groovy
+END
+20130114-fix-roletypes.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/tdstm/!svn/ver/2963/trunk/grails-app/migrations/20130114-fix-roletypes.groovy
+END
+20140318-add-guid-to-userlogin.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/tdstm/!svn/ver/4172/trunk/grails-app/migrations/20140318-add-guid-to-userlogin.groovy
+END
+20121218-normalize-aka-columns.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/tdstm/!svn/ver/2886/trunk/grails-app/migrations/20121218-normalize-aka-columns.groovy
+END
+20130321-add-custom-fields.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/tdstm/!svn/ver/3165/trunk/grails-app/migrations/20130321-add-custom-fields.groovy
+END
+20130213-add-model-usize.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/tdstm/!svn/ver/3024/trunk/grails-app/migrations/20130213-add-model-usize.groovy
+END
+20130712-add-virtual_host-import-export.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/tdstm/!svn/ver/3460/trunk/grails-app/migrations/20130712-add-virtual_host-import-export.groovy
+END
+20121211-add-projectStaff-permission.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/tdstm/!svn/ver/2862/trunk/grails-app/migrations/20121211-add-projectStaff-permission.groovy
+END
+20130614-add-userlogin-passwordchange-columns.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/tdstm/!svn/ver/3341/trunk/grails-app/migrations/20130614-add-userlogin-passwordchange-columns.groovy
+END
+20130612-migrate-person-ref-records.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/tdstm/!svn/ver/3365/trunk/grails-app/migrations/20130612-migrate-person-ref-records.groovy
+END
+20140131-add-missing-version.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/tdstm/!svn/ver/3958/trunk/grails-app/migrations/20140131-add-missing-version.groovy
+END
+20140130-remove-createdBy-recipe.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/tdstm/!svn/ver/3954/trunk/grails-app/migrations/20140130-remove-createdBy-recipe.groovy
+END
+20140324-add-modified-by-column-in-asset-entity.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/tdstm/!svn/ver/4211/trunk/grails-app/migrations/20140324-add-modified-by-column-in-asset-entity.groovy
+END
+20130315-change-userlogin-username-size.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/tdstm/!svn/ver/3109/trunk/grails-app/migrations/20130315-change-userlogin-username-size.groovy
+END
+20130903-add-index-to-ModelAlias.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/tdstm/!svn/ver/3665/trunk/grails-app/migrations/20130903-add-index-to-ModelAlias.groovy
+END
+20130626-update-person-staff_type.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/tdstm/!svn/ver/3376/trunk/grails-app/migrations/20130626-update-person-staff_type.groovy
+END
+20130904-update-blades-room-and-location.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/tdstm/!svn/ver/3657/trunk/grails-app/migrations/20130904-update-blades-room-and-location.groovy
+END
+20140320-update-date-created-when-null.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/tdstm/!svn/ver/4196/trunk/grails-app/migrations/20140320-update-date-created-when-null.groovy
+END
+20140227-add-time-move-event.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/tdstm/!svn/ver/4081/trunk/grails-app/migrations/20140227-add-time-move-event.groovy
+END
+20140417-add-task-batch-project.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/tdstm/!svn/ver/4317/trunk/grails-app/migrations/20140417-add-task-batch-project.groovy
+END
+20121206-fix-staff-system-roles.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/tdstm/!svn/ver/2851/trunk/grails-app/migrations/20121206-fix-staff-system-roles.groovy
+END
+20130111-add-roletypes.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/tdstm/!svn/ver/2956/trunk/grails-app/migrations/20130111-add-roletypes.groovy
+END
+20130503-drop-application-owner-id.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/tdstm/!svn/ver/3321/trunk/grails-app/migrations/20130503-drop-application-owner-id.groovy
+END
+20140203-add-missing-autoincrement.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/tdstm/!svn/ver/3974/trunk/grails-app/migrations/20140203-add-missing-autoincrement.groovy
+END
+20130723-add-keyvalue-table.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/tdstm/!svn/ver/3504/trunk/grails-app/migrations/20130723-add-keyvalue-table.groovy
+END
+20130510-add-automatic-service-person.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/tdstm/!svn/ver/3263/trunk/grails-app/migrations/20130510-add-automatic-service-person.groovy
+END
+20131018-fix-party-version-tempForUpdate.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/tdstm/!svn/ver/3790/trunk/grails-app/migrations/20131018-fix-party-version-tempForUpdate.groovy
+END
+20140312-update-person-active-field-with-user-login-active.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/tdstm/!svn/ver/4127/trunk/grails-app/migrations/20140312-update-person-active-field-with-user-login-active.groovy
+END
+20140128-add-cookbook.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/tdstm/!svn/ver/3949/trunk/grails-app/migrations/20140128-add-cookbook.groovy
+END
+20130509-update-asset-type-case.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/tdstm/!svn/ver/3261/trunk/grails-app/migrations/20130509-update-asset-type-case.groovy
+END
+20130710-add-new-app-field-import-export.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/tdstm/!svn/ver/3442/trunk/grails-app/migrations/20130710-add-new-app-field-import-export.groovy
+END
+20130808-update-model-status.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/tdstm/!svn/ver/3567/trunk/grails-app/migrations/20130808-update-model-status.groovy
+END
+20140219-add-default-values-is-published.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/tdstm/!svn/ver/4033/trunk/grails-app/migrations/20140219-add-default-values-is-published.groovy
+END
+20130627-add-person-middlename-column.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/tdstm/!svn/ver/3399/trunk/grails-app/migrations/20130627-add-person-middlename-column.groovy
+END
+20130503-delete-orphan-records-model.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/tdstm/!svn/ver/3242/trunk/grails-app/migrations/20130503-delete-orphan-records-model.groovy
+END
+20130905-update-asset-orphan-records-with-no-racks-rooms.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/tdstm/!svn/ver/3655/trunk/grails-app/migrations/20130905-update-asset-orphan-records-with-no-racks-rooms.groovy
+END
+20140320-change-use-of-planning-field-to-use-for-planning.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/tdstm/!svn/ver/4179/trunk/grails-app/migrations/20140320-change-use-of-planning-field-to-use-for-planning.groovy
+END
+20130910-update-person-fields.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/tdstm/!svn/ver/3669/trunk/grails-app/migrations/20130910-update-person-fields.groovy
+END
+20130322-add-entity-customs.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/tdstm/!svn/ver/3212/trunk/grails-app/migrations/20130322-add-entity-customs.groovy
+END
+20130903-add-task-report-permission.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/tdstm/!svn/ver/3647/trunk/grails-app/migrations/20130903-add-task-report-permission.groovy
+END
+20130409-add-import-permission.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/tdstm/!svn/ver/3190/trunk/grails-app/migrations/20130409-add-import-permission.groovy
+END
+20130713-add-permission-view-permission.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/tdstm/!svn/ver/3452/trunk/grails-app/migrations/20130713-add-permission-view-permission.groovy
+END
+20130826-update-comment-datatype-to-text.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/tdstm/!svn/ver/3626/trunk/grails-app/migrations/20130826-update-comment-datatype-to-text.groovy
+END
+20130502-add-assetType-eav-attribute-options.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/tdstm/!svn/ver/3238/trunk/grails-app/migrations/20130502-add-assetType-eav-attribute-options.groovy
+END
+20130520-add-field-importance-table.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/tdstm/!svn/ver/3332/trunk/grails-app/migrations/20130520-add-field-importance-table.groovy
+END
+20130611-add-person-ref-columns.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/tdstm/!svn/ver/3365/trunk/grails-app/migrations/20130611-add-person-ref-columns.groovy
+END
+20150205-add-49-64-custom-fields.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/tdstm/!svn/ver/4343/trunk/grails-app/migrations/20150205-add-49-64-custom-fields.groovy
+END
+20130918-add-last-modified-column-userlogin.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/tdstm/!svn/ver/3689/trunk/grails-app/migrations/20130918-add-last-modified-column-userlogin.groovy
+END

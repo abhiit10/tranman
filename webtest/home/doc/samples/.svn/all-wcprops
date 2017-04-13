@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/tdstm/!svn/ver/123/trunk/webtest/home/doc/samples
+END
+installTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/tdstm/!svn/ver/123/trunk/webtest/home/doc/samples/installTest.xml
+END
+testfile.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/tdstm/!svn/ver/123/trunk/webtest/home/doc/samples/testfile.html
+END

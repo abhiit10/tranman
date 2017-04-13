@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/tdstm/!svn/ver/2852/trunk/plugins/database-migration-1.0
+END
+application.properties
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/tdstm/!svn/ver/2852/trunk/plugins/database-migration-1.0/application.properties
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/tdstm/!svn/ver/2852/trunk/plugins/database-migration-1.0/LICENSE.txt
+END
+dependencies.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/tdstm/!svn/ver/2852/trunk/plugins/database-migration-1.0/dependencies.groovy
+END
+DatabaseMigrationGrailsPlugin.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/tdstm/!svn/ver/2852/trunk/plugins/database-migration-1.0/DatabaseMigrationGrailsPlugin.groovy
+END
+plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/tdstm/!svn/ver/2852/trunk/plugins/database-migration-1.0/plugin.xml
+END

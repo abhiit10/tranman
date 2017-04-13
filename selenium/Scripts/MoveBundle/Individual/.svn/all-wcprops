@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/tdstm/!svn/ver/2239/trunk/selenium/Scripts/MoveBundle/Individual
+END
+MoveBundle_Read
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/tdstm/!svn/ver/2000/trunk/selenium/Scripts/MoveBundle/Individual/MoveBundle_Read
+END
+BundleBundle_Team_Create
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/tdstm/!svn/ver/2239/trunk/selenium/Scripts/MoveBundle/Individual/BundleBundle_Team_Create
+END
+MoveBundle_Delete
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/tdstm/!svn/ver/2000/trunk/selenium/Scripts/MoveBundle/Individual/MoveBundle_Delete
+END
+MoveBundle_Create
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/tdstm/!svn/ver/2239/trunk/selenium/Scripts/MoveBundle/Individual/MoveBundle_Create
+END
+MoveBundle_EditDashboardSteps
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/tdstm/!svn/ver/2000/trunk/selenium/Scripts/MoveBundle/Individual/MoveBundle_EditDashboardSteps
+END

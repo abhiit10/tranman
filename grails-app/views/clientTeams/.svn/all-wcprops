@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/tdstm/!svn/ver/4292/trunk/grails-app/views/clientTeams
+END
+showIssue_m.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/tdstm/!svn/ver/3735/trunk/grails-app/views/clientTeams/showIssue_m.gsp
+END
+list_m.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/tdstm/!svn/ver/3145/trunk/grails-app/views/clientTeams/list_m.gsp
+END
+home_m.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/tdstm/!svn/ver/2895/trunk/grails-app/views/clientTeams/home_m.gsp
+END
+logisticsMyTasks.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/tdstm/!svn/ver/3155/trunk/grails-app/views/clientTeams/logisticsMyTasks.gsp
+END
+_tasks.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/tdstm/!svn/ver/4267/trunk/grails-app/views/clientTeams/_tasks.gsp
+END
+myTasks_m.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/tdstm/!svn/ver/3155/trunk/grails-app/views/clientTeams/myTasks_m.gsp
+END
+logisticsHome.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/tdstm/!svn/ver/2895/trunk/grails-app/views/clientTeams/logisticsHome.gsp
+END
+myIssues_m.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/tdstm/!svn/ver/3905/trunk/grails-app/views/clientTeams/myIssues_m.gsp
+END
+showTaskforEmail.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/tdstm/!svn/ver/4176/trunk/grails-app/views/clientTeams/showTaskforEmail.gsp
+END
+assetSearch.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/tdstm/!svn/ver/2895/trunk/grails-app/views/clientTeams/assetSearch.gsp
+END
+showIssue.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/tdstm/!svn/ver/3885/trunk/grails-app/views/clientTeams/showIssue.gsp
+END
+_tasks_m.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/tdstm/!svn/ver/4267/trunk/grails-app/views/clientTeams/_tasks_m.gsp
+END
+list.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/tdstm/!svn/ver/3904/trunk/grails-app/views/clientTeams/list.gsp
+END
+home.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/tdstm/!svn/ver/2895/trunk/grails-app/views/clientTeams/home.gsp
+END
+_showCleanerTask.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/tdstm/!svn/ver/3735/trunk/grails-app/views/clientTeams/_showCleanerTask.gsp
+END
+myTasks.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/tdstm/!svn/ver/3155/trunk/grails-app/views/clientTeams/myTasks.gsp
+END
+editTaskForEmail.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/tdstm/!svn/ver/4175/trunk/grails-app/views/clientTeams/editTaskForEmail.gsp
+END
+_mobilePref.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/tdstm/!svn/ver/3520/trunk/grails-app/views/clientTeams/_mobilePref.gsp
+END
+logisticsAssetSearch.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/tdstm/!svn/ver/3625/trunk/grails-app/views/clientTeams/logisticsAssetSearch.gsp
+END
+myIssues.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/tdstm/!svn/ver/4292/trunk/grails-app/views/clientTeams/myIssues.gsp
+END
+assetSearch_m.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/tdstm/!svn/ver/2895/trunk/grails-app/views/clientTeams/assetSearch_m.gsp
+END

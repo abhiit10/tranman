@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/lib/colorbrewer
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/lib/colorbrewer/LICENSE
+END
+colorbrewer.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/lib/colorbrewer/colorbrewer.js
+END
+colorbrewer.css
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/lib/colorbrewer/colorbrewer.css
+END

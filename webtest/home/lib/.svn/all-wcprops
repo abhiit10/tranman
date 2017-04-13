@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/tdstm/!svn/ver/123/trunk/webtest/home/lib
+END
+commons-io-1.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/tdstm/!svn/ver/123/trunk/webtest/home/lib/commons-io-1.4.jar
+END
+groovy-all-1.5.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/tdstm/!svn/ver/123/trunk/webtest/home/lib/groovy-all-1.5.6.jar
+END
+ant-1.7.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/tdstm/!svn/ver/123/trunk/webtest/home/lib/ant-1.7.0.jar
+END
+cssparser-0.9.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/tdstm/!svn/ver/123/trunk/webtest/home/lib/cssparser-0.9.5.jar
+END
+htmlunit-2.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tdstm/!svn/ver/123/trunk/webtest/home/lib/htmlunit-2.3.jar
+END
+classpath.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/tdstm/!svn/ver/123/trunk/webtest/home/lib/classpath.xml
+END
+ant-nodeps-1.7.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/tdstm/!svn/ver/123/trunk/webtest/home/lib/ant-nodeps-1.7.0.jar
+END
+commons-codec-1.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/tdstm/!svn/ver/123/trunk/webtest/home/lib/commons-codec-1.3.jar
+END
+junit-4.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/tdstm/!svn/ver/123/trunk/webtest/home/lib/junit-4.4.jar
+END
+oro-2.0.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/tdstm/!svn/ver/123/trunk/webtest/home/lib/oro-2.0.6.jar
+END
+taskdef.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/tdstm/!svn/ver/123/trunk/webtest/home/lib/taskdef.xml
+END
+commons-collections-3.2.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/tdstm/!svn/ver/123/trunk/webtest/home/lib/commons-collections-3.2.1.jar
+END
+commons-lang-2.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/tdstm/!svn/ver/123/trunk/webtest/home/lib/commons-lang-2.4.jar
+END
+mail-1.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/tdstm/!svn/ver/123/trunk/webtest/home/lib/mail-1.4.jar
+END
+bsf-2.4.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/tdstm/!svn/ver/123/trunk/webtest/home/lib/bsf-2.4.0.jar
+END
+commons-logging-1.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/tdstm/!svn/ver/123/trunk/webtest/home/lib/commons-logging-1.1.1.jar
+END
+webtest.jar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/tdstm/!svn/ver/123/trunk/webtest/home/lib/webtest.jar
+END
+xml-apis-1.0.b2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/tdstm/!svn/ver/123/trunk/webtest/home/lib/xml-apis-1.0.b2.jar
+END
+log4j-1.2.14.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tdstm/!svn/ver/123/trunk/webtest/home/lib/log4j-1.2.14.jar
+END
+ant-launcher-1.7.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/tdstm/!svn/ver/123/trunk/webtest/home/lib/ant-launcher-1.7.0.jar
+END
+ant-junit-1.7.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/tdstm/!svn/ver/123/trunk/webtest/home/lib/ant-junit-1.7.0.jar
+END
+jemmy-2.2.7.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tdstm/!svn/ver/123/trunk/webtest/home/lib/jemmy-2.2.7.5.jar
+END
+pdfbox-0.7.3-dev-log4j-20060612.jar
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/tdstm/!svn/ver/123/trunk/webtest/home/lib/pdfbox-0.7.3-dev-log4j-20060612.jar
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tdstm/!svn/ver/123/trunk/webtest/home/lib/log4j.properties
+END
+webtest_T.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/tdstm/!svn/ver/123/trunk/webtest/home/lib/webtest_T.jar
+END
+useWebTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/tdstm/!svn/ver/123/trunk/webtest/home/lib/useWebTest.xml
+END
+poi-3.1-FINAL.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tdstm/!svn/ver/123/trunk/webtest/home/lib/poi-3.1-FINAL.jar
+END
+activation-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/tdstm/!svn/ver/123/trunk/webtest/home/lib/activation-1.1.jar
+END
+jline-0.9.94.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tdstm/!svn/ver/123/trunk/webtest/home/lib/jline-0.9.94.jar
+END
+sac-1.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/tdstm/!svn/ver/123/trunk/webtest/home/lib/sac-1.3.jar
+END
+xercesImpl-2.8.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/tdstm/!svn/ver/123/trunk/webtest/home/lib/xercesImpl-2.8.1.jar
+END
+xalan-2.7.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/tdstm/!svn/ver/123/trunk/webtest/home/lib/xalan-2.7.0.jar
+END
+nekohtml-1.9.9.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/tdstm/!svn/ver/123/trunk/webtest/home/lib/nekohtml-1.9.9.jar
+END
+commons-httpclient-3.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/tdstm/!svn/ver/123/trunk/webtest/home/lib/commons-httpclient-3.1.jar
+END
+htmlunit-core-js-2.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/tdstm/!svn/ver/123/trunk/webtest/home/lib/htmlunit-core-js-2.2.jar
+END
+ant-trax-1.7.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/tdstm/!svn/ver/123/trunk/webtest/home/lib/ant-trax-1.7.0.jar
+END
+ant-apache-bsf-1.7.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/tdstm/!svn/ver/123/trunk/webtest/home/lib/ant-apache-bsf-1.7.0.jar
+END
+fontbox-0.1.0-dev-patched-20060622.jar
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/tdstm/!svn/ver/123/trunk/webtest/home/lib/fontbox-0.1.0-dev-patched-20060622.jar
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/tdstm/!svn/ver/4198/trunk/lib
+END
+groovy-ldap.jar
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/tdstm/!svn/ver/4198/trunk/lib/groovy-ldap.jar
+END
+barbecue-1.0.6b.jar
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/tdstm/!svn/ver/322/trunk/lib/barbecue-1.0.6b.jar
+END
+commons-lang3-3.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/tdstm/!svn/ver/2904/trunk/lib/commons-lang3-3.1.jar
+END
+guava-16.0.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/tdstm/!svn/ver/4153/trunk/lib/guava-16.0.1.jar
+END
+iText-2.1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/tdstm/!svn/ver/322/trunk/lib/iText-2.1.0.jar
+END
+barcode.jar
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/tdstm/!svn/ver/302/trunk/lib/barcode.jar
+END
+mysql-connector-java-5.1.24-bin.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/tdstm/!svn/ver/3201/trunk/lib/mysql-connector-java-5.1.24-bin.jar
+END
+jexcel-2.6.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/tdstm/!svn/ver/33/trunk/lib/jexcel-2.6.6.jar
+END

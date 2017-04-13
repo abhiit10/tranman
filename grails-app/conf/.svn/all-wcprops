@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/tdstm/!svn/ver/4374/trunk/grails-app/conf
+END
+SecurityFilters.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/tdstm/!svn/ver/4249/trunk/grails-app/conf/SecurityFilters.groovy
+END
+jmesa.properties
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tdstm/!svn/ver/1505/trunk/grails-app/conf/jmesa.properties
+END
+DataSource.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tdstm/!svn/ver/3835/trunk/grails-app/conf/DataSource.groovy
+END
+UrlMappings.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/tdstm/!svn/ver/4374/trunk/grails-app/conf/UrlMappings.groovy
+END
+tdstm-config.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/tdstm/!svn/ver/2398/trunk/grails-app/conf/tdstm-config.groovy
+END
+AuthFilters.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/tdstm/!svn/ver/3043/trunk/grails-app/conf/AuthFilters.groovy
+END
+Config.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/tdstm/!svn/ver/4197/trunk/grails-app/conf/Config.groovy
+END
+BuildConfig.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/tdstm/!svn/ver/3382/trunk/grails-app/conf/BuildConfig.groovy
+END
+BootStrap.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tdstm/!svn/ver/3710/trunk/grails-app/conf/BootStrap.groovy
+END
+tdstm-config.groovy.template
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/tdstm/!svn/ver/3940/trunk/grails-app/conf/tdstm-config.groovy.template
+END

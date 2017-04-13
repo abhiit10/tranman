@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/tdstm/!svn/ver/2398/trunk/plugins/mail-1.0/grails-app/views/_testemails
+END
+tagtest.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/tdstm/!svn/ver/2398/trunk/plugins/mail-1.0/grails-app/views/_testemails/tagtest.gsp
+END
+testhtml.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/tdstm/!svn/ver/2398/trunk/plugins/mail-1.0/grails-app/views/_testemails/testhtml.gsp
+END
+i18ntest.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/tdstm/!svn/ver/2398/trunk/plugins/mail-1.0/grails-app/views/_testemails/i18ntest.gsp
+END
+test.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/tdstm/!svn/ver/2398/trunk/plugins/mail-1.0/grails-app/views/_testemails/test.gsp
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/lib/jquery
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/lib/jquery/LICENSE
+END
+jquery.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/lib/jquery/jquery.min.js
+END
+jquery.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/lib/jquery/jquery.js
+END

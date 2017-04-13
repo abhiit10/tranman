@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/tdstm/!svn/ver/4307/trunk/src/groovy/com/tdsops/tm/enums/domain
+END
+DurationScale.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/tdstm/!svn/ver/4102/trunk/src/groovy/com/tdsops/tm/enums/domain/DurationScale.groovy
+END
+SecurityRole.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/tdstm/!svn/ver/4103/trunk/src/groovy/com/tdsops/tm/enums/domain/SecurityRole.groovy
+END
+AssetDependencyType.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/tdstm/!svn/ver/3014/trunk/src/groovy/com/tdsops/tm/enums/domain/AssetDependencyType.groovy
+END
+ValidationType.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/tdstm/!svn/ver/3346/trunk/src/groovy/com/tdsops/tm/enums/domain/ValidationType.groovy
+END
+SortOrder.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/tdstm/!svn/ver/4242/trunk/src/groovy/com/tdsops/tm/enums/domain/SortOrder.groovy
+END
+RoleTypeGroup.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/tdstm/!svn/ver/2474/trunk/src/groovy/com/tdsops/tm/enums/domain/RoleTypeGroup.groovy
+END
+WorkflowTransitionId.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/tdstm/!svn/ver/2956/trunk/src/groovy/com/tdsops/tm/enums/domain/WorkflowTransitionId.groovy
+END
+AssetEntityPlanStatus.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/tdstm/!svn/ver/3630/trunk/src/groovy/com/tdsops/tm/enums/domain/AssetEntityPlanStatus.groovy
+END
+AssetCommentCategory.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/tdstm/!svn/ver/2464/trunk/src/groovy/com/tdsops/tm/enums/domain/AssetCommentCategory.groovy
+END
+AssetDependencyStatus.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/tdstm/!svn/ver/3445/trunk/src/groovy/com/tdsops/tm/enums/domain/AssetDependencyStatus.groovy
+END
+ProjectSortProperty.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/tdstm/!svn/ver/4307/trunk/src/groovy/com/tdsops/tm/enums/domain/ProjectSortProperty.groovy
+END
+ProjectStatus.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/tdstm/!svn/ver/4242/trunk/src/groovy/com/tdsops/tm/enums/domain/ProjectStatus.groovy
+END
+TaskDependencyType.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/tdstm/!svn/ver/4103/trunk/src/groovy/com/tdsops/tm/enums/domain/TaskDependencyType.groovy
+END
+SizeScale.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/tdstm/!svn/ver/4103/trunk/src/groovy/com/tdsops/tm/enums/domain/SizeScale.groovy
+END
+AssetCommentType.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/tdstm/!svn/ver/2474/trunk/src/groovy/com/tdsops/tm/enums/domain/AssetCommentType.groovy
+END
+ContextType.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/tdstm/!svn/ver/4216/trunk/src/groovy/com/tdsops/tm/enums/domain/ContextType.groovy
+END
+TimeConstraintType.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/tdstm/!svn/ver/4103/trunk/src/groovy/com/tdsops/tm/enums/domain/TimeConstraintType.groovy
+END
+SpeedScale.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/tdstm/!svn/ver/4103/trunk/src/groovy/com/tdsops/tm/enums/domain/SpeedScale.groovy
+END
+AssetCommentStatus.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/tdstm/!svn/ver/3819/trunk/src/groovy/com/tdsops/tm/enums/domain/AssetCommentStatus.groovy
+END
+AssetCableStatus.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/tdstm/!svn/ver/3888/trunk/src/groovy/com/tdsops/tm/enums/domain/AssetCableStatus.groovy
+END
+EntityType.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/tdstm/!svn/ver/3510/trunk/src/groovy/com/tdsops/tm/enums/domain/EntityType.groovy
+END
+TimeScale.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/tdstm/!svn/ver/4103/trunk/src/groovy/com/tdsops/tm/enums/domain/TimeScale.groovy
+END

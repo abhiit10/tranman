@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/tdstm/!svn/ver/2452/trunk/plugins/ref-code-0.2.1
+END
+application.properties
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/tdstm/!svn/ver/1216/trunk/plugins/ref-code-0.2.1/application.properties
+END
+plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tdstm/!svn/ver/1216/trunk/plugins/ref-code-0.2.1/plugin.xml
+END
+RefCodeGrailsPlugin.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/tdstm/!svn/ver/1216/trunk/plugins/ref-code-0.2.1/RefCodeGrailsPlugin.groovy
+END

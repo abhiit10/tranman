@@ -1,0 +1,599 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/core
+END
+xml.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/core/xml.js
+END
+selection-transition.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/core/selection-transition.js
+END
+permute.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/core/permute.js
+END
+transition.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/core/transition.js
+END
+transition-select.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/core/transition-select.js
+END
+keys.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/core/keys.js
+END
+functor.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/core/functor.js
+END
+selection-enter-select.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/core/selection-enter-select.js
+END
+rebind.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/core/rebind.js
+END
+rgb.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/core/rgb.js
+END
+selection-order.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/core/selection-order.js
+END
+transition-transition.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/core/transition-transition.js
+END
+transform.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/core/transform.js
+END
+transition-delay.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/core/transition-delay.js
+END
+extent.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/core/extent.js
+END
+number.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/core/number.js
+END
+json.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/core/json.js
+END
+mean.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/core/mean.js
+END
+timer.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/core/timer.js
+END
+ns.js
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/core/ns.js
+END
+max.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/core/max.js
+END
+selection-root.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/core/selection-root.js
+END
+selection-each.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/core/selection-each.js
+END
+values.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/core/values.js
+END
+hsl.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/core/hsl.js
+END
+selection-call.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/core/selection-call.js
+END
+quantile.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/core/quantile.js
+END
+this.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/core/this.js
+END
+range.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/core/range.js
+END
+map.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/core/map.js
+END
+selection-append.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/core/selection-append.js
+END
+split.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/core/split.js
+END
+selection-insert.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/core/selection-insert.js
+END
+event.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/core/event.js
+END
+transpose.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/core/transpose.js
+END
+transition-style.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/core/transition-style.js
+END
+nest.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/core/nest.js
+END
+ascending.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/core/ascending.js
+END
+format.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/core/format.js
+END
+last.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/core/last.js
+END
+selection-attr.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/core/selection-attr.js
+END
+round.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/core/round.js
+END
+true.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/core/true.js
+END
+touches.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/core/touches.js
+END
+text.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/core/text.js
+END
+collapse.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/core/collapse.js
+END
+selection-empty.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/core/selection-empty.js
+END
+selection-html.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/core/selection-html.js
+END
+bisect.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/core/bisect.js
+END
+median.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/core/median.js
+END
+requote.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/core/requote.js
+END
+uninterpolate.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/core/uninterpolate.js
+END
+vendor.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/core/vendor.js
+END
+mouse.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/core/mouse.js
+END
+transition-text.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/core/transition-text.js
+END
+xhr.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/core/xhr.js
+END
+zip.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/core/zip.js
+END
+selection-on.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/core/selection-on.js
+END
+dispatch.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/core/dispatch.js
+END
+merge.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/core/merge.js
+END
+subclass.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/core/subclass.js
+END
+selection-enter.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/core/selection-enter.js
+END
+selection-property.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/core/selection-property.js
+END
+target.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/core/target.js
+END
+first.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/core/first.js
+END
+selection-style.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/core/selection-style.js
+END
+ease.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/core/ease.js
+END
+selection-datum.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/core/selection-datum.js
+END
+transition-selectAll.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/core/transition-selectAll.js
+END
+selection-data.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/core/selection-data.js
+END
+sum.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/core/sum.js
+END
+random.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/core/random.js
+END
+noop.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/core/noop.js
+END
+interpolate.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/core/interpolate.js
+END
+selection-sort.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/core/selection-sort.js
+END
+transition-each.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/core/transition-each.js
+END
+selection-classed.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/core/selection-classed.js
+END
+min.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/core/min.js
+END
+index.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/core/index.js
+END
+entries.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/core/entries.js
+END
+selection-text.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/core/selection-text.js
+END
+transition-duration.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/core/transition-duration.js
+END
+selection.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/core/selection.js
+END
+html.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/core/html.js
+END
+formatPrefix.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/core/formatPrefix.js
+END
+transition-attr.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/core/transition-attr.js
+END
+selection-remove.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/core/selection-remove.js
+END
+selection-selectAll.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/core/selection-selectAll.js
+END
+selection-node.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/core/selection-node.js
+END
+core.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/core/core.js
+END
+identity.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/core/identity.js
+END
+selection-select.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/core/selection-select.js
+END
+transition-remove.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/core/transition-remove.js
+END
+document.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/core/document.js
+END
+source.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/core/source.js
+END
+selection-filter.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/core/selection-filter.js
+END
+array.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/core/array.js
+END
+class.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/core/class.js
+END
+descending.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/core/descending.js
+END

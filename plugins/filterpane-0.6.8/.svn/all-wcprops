@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/tdstm/!svn/ver/1441/trunk/plugins/filterpane-0.6.8
+END
+application.properties
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/tdstm/!svn/ver/1216/trunk/plugins/filterpane-0.6.8/application.properties
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/tdstm/!svn/ver/1216/trunk/plugins/filterpane-0.6.8/LICENSE.txt
+END
+plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/tdstm/!svn/ver/1216/trunk/plugins/filterpane-0.6.8/plugin.xml
+END
+FilterpaneGrailsPlugin.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/tdstm/!svn/ver/1216/trunk/plugins/filterpane-0.6.8/FilterpaneGrailsPlugin.groovy
+END

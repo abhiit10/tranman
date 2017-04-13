@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/tdstm/!svn/ver/2148/trunk/plugins/functional-test-1.2.7
+END
+application.properties
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/tdstm/!svn/ver/1216/trunk/plugins/functional-test-1.2.7/application.properties
+END
+FunctionalTestGrailsPlugin.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/tdstm/!svn/ver/1216/trunk/plugins/functional-test-1.2.7/FunctionalTestGrailsPlugin.groovy
+END
+plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/tdstm/!svn/ver/1216/trunk/plugins/functional-test-1.2.7/plugin.xml
+END

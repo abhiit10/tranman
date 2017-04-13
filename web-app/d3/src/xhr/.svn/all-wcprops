@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/xhr
+END
+xml.js
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/xhr/xml.js
+END
+index.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/xhr/index.js
+END
+xhr.js
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/xhr/xhr.js
+END
+text.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/xhr/text.js
+END
+html.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/xhr/html.js
+END
+json.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/xhr/json.js
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/tdstm/!svn/ver/2320/trunk/selenium/Scripts/MoveEvents/Individual
+END
+MoveEvent_Edit
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/tdstm/!svn/ver/2320/trunk/selenium/Scripts/MoveEvents/Individual/MoveEvent_Edit
+END
+MoveEvent_Create
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/tdstm/!svn/ver/2320/trunk/selenium/Scripts/MoveEvents/Individual/MoveEvent_Create
+END
+Export_Runbook
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/tdstm/!svn/ver/2312/trunk/selenium/Scripts/MoveEvents/Individual/Export_Runbook
+END
+MoveEvent_Read
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/tdstm/!svn/ver/2320/trunk/selenium/Scripts/MoveEvents/Individual/MoveEvent_Read
+END

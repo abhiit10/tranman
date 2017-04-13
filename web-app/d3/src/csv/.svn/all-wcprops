@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/csv
+END
+format.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/csv/format.js
+END
+csv.js
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/csv/csv.js
+END
+parse.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/csv/parse.js
+END

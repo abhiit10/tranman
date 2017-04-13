@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/tdstm/!svn/ver/4107/trunk/grails-app/views/userLogin
+END
+edit.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/tdstm/!svn/ver/4107/trunk/grails-app/views/userLogin/edit.gsp
+END
+changePassword.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/tdstm/!svn/ver/3577/trunk/grails-app/views/userLogin/changePassword.gsp
+END
+create.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/tdstm/!svn/ver/4107/trunk/grails-app/views/userLogin/create.gsp
+END
+show.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/tdstm/!svn/ver/4107/trunk/grails-app/views/userLogin/show.gsp
+END
+list.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/tdstm/!svn/ver/3718/trunk/grails-app/views/userLogin/list.gsp
+END

@@ -1,0 +1,61 @@
+10
+
+dir
+4383
+http://svn.tdsops.com/svn/tdstm/trunk/grails-app
+http://svn.tdsops.com/svn/tdstm
+
+
+
+2014-05-16T11:27:27.044148Z
+4381
+lokanada
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+fecba46a-3362-0410-80e5-8c76cdb905a0
+
+conf
+dir
+
+controllers
+dir
+
+domain
+dir
+
+i18n
+dir
+
+jobs
+dir
+
+migrations
+dir
+
+realms
+dir
+
+services
+dir
+
+taglib
+dir
+
+utils
+dir
+
+views
+dir
+

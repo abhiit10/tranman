@@ -1,0 +1,37 @@
+10
+
+dir
+4383
+http://svn.tdsops.com/svn/tdstm/trunk/plugins/mail-1.0/web-app
+http://svn.tdsops.com/svn/tdstm
+
+
+
+2012-07-23T18:04:53.816721Z
+2398
+rmacfarlane
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+fecba46a-3362-0410-80e5-8c76cdb905a0
+
+css
+dir
+
+images
+dir
+
+js
+dir
+

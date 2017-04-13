@@ -1,0 +1,135 @@
+body {
+	background: white;
+	color: black;
+	font: 14px helvetica, arial, sans-serif;
+}
+
+.mobbody{
+	width:320px;
+	height:auto;
+	margin:0px;
+}
+.mobbodyweb{
+	width:420px;
+	height:auto;
+	margin:0px;
+}
+
+table {
+	width:100%;
+	float:left;
+	border: 1px solid black;
+}
+
+.asset_hold{
+	background-color:#FFFF33;
+	color:black;
+	font-weight:bold;
+}
+
+.asset_pending{
+	background-color:#ccc;
+	color:black;
+	font-weight:bold;
+}
+
+.task_done{
+	background-color: green;
+}
+.task_overdue {
+	color: yellow;
+	font-weight:bold;
+}
+th {
+	color: #ffffff;
+	font-weight:bold;
+}
+td {
+	font: 14px helvetica, arial, sans-serif;
+}
+
+a:link, a:visited, a:hover {
+font-weight: bold;
+}
+#mobtitle {
+	height: 25px; 
+	width: 320px;
+	text-align: center;
+	float: left; 
+	color: white; 
+	font-weight: bold;
+	font-size: 125%;
+	border:1px solid #5F9FCF; 
+	background-color: #5F9FCF;
+	margin:0px;
+	padding: 0px;
+}
+.mobmenu {
+	height: 21px; 
+	width: auto; 
+	float: left; 
+	color: white; 
+	font-weight: normal;
+font: bold 12px Tahoma, helvetica, arial, sans-serif;
+text-align: center;
+	border:1px solid #444; 
+	margin:0px;
+padding: 2px 8px;
+}
+a.mobselect {
+	color: yellow; 
+	font-weight: bold;
+	border:2px solid #507028; 
+	border-top-color: #444; 
+	border-left-color: #444; 
+	border-right-color: #507028;
+	border-bottom-width: 6px;
+	background:#507028;
+	padding: 0px;
+}
+
+.mobfooter {
+	border:0px solid #02322A; 
+	margin:0px; 
+	height:25px; 
+	padding:3px; 
+	width:100%; 
+	text-decoration: none;
+	text-align:center;
+	font: bold 12px helvetica, arial, sans-serif;
+	color: #FFFFFF !important;
+	background:black;
+	position: fixed;
+	bottom:0px;
+	left:0px;
+	-webkit-border-radius: 0px;
+	-moz-border-radius: 0px;
+}
+.mobbutton {
+	color: white; 
+	border:1px solid #02322A; 
+	margin:2px 5px 5px 5px; 
+	height:15px; 
+	padding:1px 2px 1px 3px; 
+	width:50px; 
+	background:#A3AD30; 
+	float:left;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+}
+.mobbutton_deselected {
+	color: white; 
+	border:1px solid #02322A; 
+	margin:2px 5px 5px 5px; 
+	height:15px; 
+	padding:1px 2px 1px 3px; 
+	width:50px; 
+	background:#02322A; 
+	float:left;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+}
+
+a.task_action{float: left; position: relative; margin: 0 0 0 30px;cursor: pointer;}
+a.task_action span.task_icon{position: absolute; top: 0}
+a.task_action span.task_button{ float: left; height: 16px; line-height: 16px;  padding: 0 5px 0 15px;}

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/tdstm/!svn/ver/3904/trunk/grails-app/views/projectTeam
+END
+edit.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/tdstm/!svn/ver/3904/trunk/grails-app/views/projectTeam/edit.gsp
+END
+create.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/tdstm/!svn/ver/3904/trunk/grails-app/views/projectTeam/create.gsp
+END
+show.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/tdstm/!svn/ver/3904/trunk/grails-app/views/projectTeam/show.gsp
+END
+list.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/tdstm/!svn/ver/3904/trunk/grails-app/views/projectTeam/list.gsp
+END

@@ -1,0 +1,299 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/geo
+END
+azimuthal.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/geo/azimuthal.js
+END
+conic-equal-area.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/geo/conic-equal-area.js
+END
+graticule.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/geo/graticule.js
+END
+geo.js
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/geo/geo.js
+END
+orthographic.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/geo/orthographic.js
+END
+stereographic.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/geo/stereographic.js
+END
+projection.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/geo/projection.js
+END
+area.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/geo/area.js
+END
+transform.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/geo/transform.js
+END
+azimuthal-equidistant.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/geo/azimuthal-equidistant.js
+END
+path-centroid.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/geo/path-centroid.js
+END
+path-buffer.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/geo/path-buffer.js
+END
+path-context.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/geo/path-context.js
+END
+clip-extent.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/geo/clip-extent.js
+END
+length.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/geo/length.js
+END
+greatArc.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/geo/greatArc.js
+END
+interpolate.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/geo/interpolate.js
+END
+greatCircle.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/geo/greatCircle.js
+END
+clip-polygon.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/geo/clip-polygon.js
+END
+conic.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/geo/conic.js
+END
+bounds.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/geo/bounds.js
+END
+distance.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/geo/distance.js
+END
+path-area.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/geo/path-area.js
+END
+compose.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/geo/compose.js
+END
+index.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/geo/index.js
+END
+circle.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/geo/circle.js
+END
+conic-equidistant.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/geo/conic-equidistant.js
+END
+clip.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/geo/clip.js
+END
+albers.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/geo/albers.js
+END
+point-in-polygon.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/geo/point-in-polygon.js
+END
+clip-circle.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/geo/clip-circle.js
+END
+cartesian.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/geo/cartesian.js
+END
+path.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/geo/path.js
+END
+albers-usa.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/geo/albers-usa.js
+END
+stream.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/geo/stream.js
+END
+centroid.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/geo/centroid.js
+END
+conic-conformal.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/geo/conic-conformal.js
+END
+clip-antimeridian.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/geo/clip-antimeridian.js
+END
+mercator.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/geo/mercator.js
+END
+transverse-mercator.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/geo/transverse-mercator.js
+END
+equirectangular.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/geo/equirectangular.js
+END
+rotation.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/geo/rotation.js
+END
+gnomonic.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/geo/gnomonic.js
+END
+resample.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/geo/resample.js
+END
+spherical.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/geo/spherical.js
+END
+path-bounds.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/geo/path-bounds.js
+END
+azimuthal-equal-area.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/geo/azimuthal-equal-area.js
+END
+type.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/geo/type.js
+END
+bonne.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/tdstm/!svn/ver/2146/trunk/web-app/d3/src/geo/bonne.js
+END

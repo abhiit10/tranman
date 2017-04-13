@@ -1,0 +1,61 @@
+10
+
+dir
+4383
+http://svn.tdsops.com/svn/tdstm/trunk/plugins
+http://svn.tdsops.com/svn/tdstm
+
+
+
+2014-04-03T13:56:15.555262Z
+4241
+dinesh
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+fecba46a-3362-0410-80e5-8c76cdb905a0
+
+database-migration-1.0
+dir
+
+eav-model-0.1
+dir
+
+filterpane-0.6.8
+dir
+
+functional-test-1.2.7
+dir
+
+jasper-1.0.0
+dir
+
+jmesa-0.8
+dir
+
+jquery-1.4.2.5
+dir
+
+mail-1.0
+dir
+
+quartz-0.4.2
+dir
+
+ref-code-0.2.1
+dir
+
+webtest-3.0.0
+dir
+

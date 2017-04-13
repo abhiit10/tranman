@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/tdstm/!svn/ver/4103/trunk/test/unit/com/tdsops/tm/enums/domain
+END
+DurationScaleTests.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/tdstm/!svn/ver/4102/trunk/test/unit/com/tdsops/tm/enums/domain/DurationScaleTests.groovy
+END
+TimeScaleTests.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/tdstm/!svn/ver/4103/trunk/test/unit/com/tdsops/tm/enums/domain/TimeScaleTests.groovy
+END

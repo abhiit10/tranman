@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/tdstm/!svn/ver/2421/trunk/selenium/Scripts/ClientTeams/Individual
+END
+ClientTeams_Web
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/tdstm/!svn/ver/2241/trunk/selenium/Scripts/ClientTeams/Individual/ClientTeams_Web
+END
+MyIssue_Web
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/tdstm/!svn/ver/2421/trunk/selenium/Scripts/ClientTeams/Individual/MyIssue_Web
+END
+MyIssue_Mobile
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/tdstm/!svn/ver/2421/trunk/selenium/Scripts/ClientTeams/Individual/MyIssue_Mobile
+END
+ClientTeams_Mobile
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/tdstm/!svn/ver/2243/trunk/selenium/Scripts/ClientTeams/Individual/ClientTeams_Mobile
+END

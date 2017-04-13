@@ -1,0 +1,263 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/tdstm/!svn/ver/4346/trunk/grails-app/views/assetEntity
+END
+_customShow.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/tdstm/!svn/ver/4345/trunk/grails-app/views/assetEntity/_customShow.gsp
+END
+_assetOptions.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/tdstm/!svn/ver/4309/trunk/grails-app/views/assetEntity/_assetOptions.gsp
+END
+_modelView.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/tdstm/!svn/ver/3913/trunk/grails-app/views/assetEntity/_modelView.gsp
+END
+_assetList.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/tdstm/!svn/ver/4162/trunk/grails-app/views/assetEntity/_assetList.gsp
+END
+_assetPriority.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/tdstm/!svn/ver/2339/trunk/grails-app/views/assetEntity/_assetPriority.gsp
+END
+_filesList.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/tdstm/!svn/ver/4162/trunk/grails-app/views/assetEntity/_filesList.gsp
+END
+importExport.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/tdstm/!svn/ver/4239/trunk/grails-app/views/assetEntity/importExport.gsp
+END
+_customEdit.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/tdstm/!svn/ver/4000/trunk/grails-app/views/assetEntity/_customEdit.gsp
+END
+_rackView.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/tdstm/!svn/ver/4143/trunk/grails-app/views/assetEntity/_rackView.gsp
+END
+create.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/tdstm/!svn/ver/4309/trunk/grails-app/views/assetEntity/create.gsp
+END
+_dependencyStatus.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/tdstm/!svn/ver/2339/trunk/grails-app/views/assetEntity/_dependencyStatus.gsp
+END
+show.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/tdstm/!svn/ver/4346/trunk/grails-app/views/assetEntity/show.gsp
+END
+_commentCrud.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/tdstm/!svn/ver/4278/trunk/grails-app/views/assetEntity/_commentCrud.gsp
+END
+_dependent.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/tdstm/!svn/ver/3872/trunk/grails-app/views/assetEntity/_dependent.gsp
+END
+_dependencyGraph.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/tdstm/!svn/ver/4235/trunk/grails-app/views/assetEntity/_dependencyGraph.gsp
+END
+_dependencyType.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/tdstm/!svn/ver/2339/trunk/grails-app/views/assetEntity/_dependencyType.gsp
+END
+_showButtons.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/tdstm/!svn/ver/4232/trunk/grails-app/views/assetEntity/_showButtons.gsp
+END
+_depConsoleTabs.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/tdstm/!svn/ver/3519/trunk/grails-app/views/assetEntity/_depConsoleTabs.gsp
+END
+_auditDetails.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/tdstm/!svn/ver/3910/trunk/grails-app/views/assetEntity/_auditDetails.gsp
+END
+_auditEdit.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/tdstm/!svn/ver/3910/trunk/grails-app/views/assetEntity/_auditEdit.gsp
+END
+edit.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/tdstm/!svn/ver/4309/trunk/grails-app/views/assetEntity/edit.gsp
+END
+_newDependency.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/tdstm/!svn/ver/3872/trunk/grails-app/views/assetEntity/_newDependency.gsp
+END
+assetOptions.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/tdstm/!svn/ver/4309/trunk/grails-app/views/assetEntity/assetOptions.gsp
+END
+listTasks.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/tdstm/!svn/ver/4292/trunk/grails-app/views/assetEntity/listTasks.gsp
+END
+_taskEMailTemplate.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/tdstm/!svn/ver/4141/trunk/grails-app/views/assetEntity/_taskEMailTemplate.gsp
+END
+_modelDialog.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/tdstm/!svn/ver/3292/trunk/grails-app/views/assetEntity/_modelDialog.gsp
+END
+_dependencyComment.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/tdstm/!svn/ver/3724/trunk/grails-app/views/assetEntity/_dependencyComment.gsp
+END
+manufacturerView.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/tdstm/!svn/ver/3513/trunk/grails-app/views/assetEntity/manufacturerView.gsp
+END
+assetSummary.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/tdstm/!svn/ver/4306/trunk/grails-app/views/assetEntity/assetSummary.gsp
+END
+exportAssets.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/tdstm/!svn/ver/4238/trunk/grails-app/views/assetEntity/exportAssets.gsp
+END
+_editButtons.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/tdstm/!svn/ver/4232/trunk/grails-app/views/assetEntity/_editButtons.gsp
+END
+dashboardView.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/tdstm/!svn/ver/4292/trunk/grails-app/views/assetEntity/dashboardView.gsp
+END
+_dbList.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/tdstm/!svn/ver/4162/trunk/grails-app/views/assetEntity/_dbList.gsp
+END
+_dependentShow.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/tdstm/!svn/ver/3726/trunk/grails-app/views/assetEntity/_dependentShow.gsp
+END
+_map.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/tdstm/!svn/ver/4246/trunk/grails-app/views/assetEntity/_map.gsp
+END
+_commentList.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/tdstm/!svn/ver/3636/trunk/grails-app/views/assetEntity/_commentList.gsp
+END
+list.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/tdstm/!svn/ver/4305/trunk/grails-app/views/assetEntity/list.gsp
+END
+_appList.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/tdstm/!svn/ver/4162/trunk/grails-app/views/assetEntity/_appList.gsp
+END
+listComment.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/tdstm/!svn/ver/4292/trunk/grails-app/views/assetEntity/listComment.gsp
+END
+_createAuditDetails.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/tdstm/!svn/ver/3592/trunk/grails-app/views/assetEntity/_createAuditDetails.gsp
+END
+_assetEnvironment.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/tdstm/!svn/ver/4309/trunk/grails-app/views/assetEntity/_assetEnvironment.gsp
+END
+_createButtons.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/tdstm/!svn/ver/3810/trunk/grails-app/views/assetEntity/_createButtons.gsp
+END
+listDependencies.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/tdstm/!svn/ver/4292/trunk/grails-app/views/assetEntity/listDependencies.gsp
+END

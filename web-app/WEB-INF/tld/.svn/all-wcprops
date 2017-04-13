@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/tdstm/!svn/ver/1217/trunk/web-app/WEB-INF/tld
+END
+c.tld
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/tdstm/!svn/ver/2/trunk/web-app/WEB-INF/tld/c.tld
+END
+grails.tld
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/tdstm/!svn/ver/1217/trunk/web-app/WEB-INF/tld/grails.tld
+END
+spring.tld
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/tdstm/!svn/ver/1217/trunk/web-app/WEB-INF/tld/spring.tld
+END
+fmt.tld
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/tdstm/!svn/ver/2/trunk/web-app/WEB-INF/tld/fmt.tld
+END

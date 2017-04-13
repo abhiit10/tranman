@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/tdstm/!svn/ver/1216/trunk/plugins/webtest-3.0.0
+END
+application.properties
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/tdstm/!svn/ver/1216/trunk/plugins/webtest-3.0.0/application.properties
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tdstm/!svn/ver/1216/trunk/plugins/webtest-3.0.0/LICENSE.txt
+END
+dependencies.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/tdstm/!svn/ver/1216/trunk/plugins/webtest-3.0.0/dependencies.groovy
+END
+WebtestGrailsPlugin.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/tdstm/!svn/ver/1216/trunk/plugins/webtest-3.0.0/WebtestGrailsPlugin.groovy
+END
+plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tdstm/!svn/ver/1216/trunk/plugins/webtest-3.0.0/plugin.xml
+END

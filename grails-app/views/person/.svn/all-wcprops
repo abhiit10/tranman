@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/tdstm/!svn/ver/4264/trunk/grails-app/views/person
+END
+edit.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tdstm/!svn/ver/3384/trunk/grails-app/views/person/edit.gsp
+END
+create.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/tdstm/!svn/ver/3469/trunk/grails-app/views/person/create.gsp
+END
+manageProjectStaff.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/tdstm/!svn/ver/4259/trunk/grails-app/views/person/manageProjectStaff.gsp
+END
+show.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tdstm/!svn/ver/3384/trunk/grails-app/views/person/show.gsp
+END
+list.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tdstm/!svn/ver/4151/trunk/grails-app/views/person/list.gsp
+END
+_compareOrMerge.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/tdstm/!svn/ver/3376/trunk/grails-app/views/person/_compareOrMerge.gsp
+END
+_generalInfoShow.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/tdstm/!svn/ver/3792/trunk/grails-app/views/person/_generalInfoShow.gsp
+END
+_createStaff.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/tdstm/!svn/ver/3853/trunk/grails-app/views/person/_createStaff.gsp
+END
+_generalInfo.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/tdstm/!svn/ver/3853/trunk/grails-app/views/person/_generalInfo.gsp
+END
+projectStaff.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/tdstm/!svn/ver/3469/trunk/grails-app/views/person/projectStaff.gsp
+END
+_showPreference.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/tdstm/!svn/ver/4264/trunk/grails-app/views/person/_showPreference.gsp
+END
+_projectStaffTable.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/tdstm/!svn/ver/3506/trunk/grails-app/views/person/_projectStaffTable.gsp
+END

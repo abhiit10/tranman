@@ -1,0 +1,18 @@
+@page {
+	size: auto; /* auto is the current printer page size */
+	margin: 0mm; /* this affects the margin in the printer settings */
+}
+
+body {
+	position: relative;
+}
+
+.tablePerPage {
+	page-break-inside: avoid;
+	-webkit-region-break-inside: avoid;
+	position: relative;
+}
+
+/* div.onepage { */
+/* 	page-break-after: always; */
+/* } */

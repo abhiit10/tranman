@@ -1,0 +1,85 @@
+10
+
+dir
+4383
+http://svn.tdsops.com/svn/tdstm/trunk/selenium/Scripts
+http://svn.tdsops.com/svn/tdstm
+
+
+
+2012-09-18T14:21:20.477345Z
+2666
+lokanada
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+fecba46a-3362-0410-80e5-8c76cdb905a0
+
+Admin
+dir
+
+Application
+dir
+
+Asset
+dir
+
+ClientTeams
+dir
+
+Comment
+dir
+
+Console
+dir
+
+Database
+dir
+
+Files
+dir
+
+Move News
+dir
+
+MoveBundle
+dir
+
+MoveEvents
+dir
+
+MoveTeam
+dir
+
+PMO
+dir
+
+PlanningDashboard
+dir
+
+Project
+dir
+
+Reports
+dir
+
+Room
+dir
+
+TimeZone
+dir
+
+WorkFlow
+dir
+

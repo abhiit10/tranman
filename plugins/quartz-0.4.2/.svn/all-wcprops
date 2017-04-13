@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/tdstm/!svn/ver/1216/trunk/plugins/quartz-0.4.2
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/tdstm/!svn/ver/1216/trunk/plugins/quartz-0.4.2/LICENSE
+END
+application.properties
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/tdstm/!svn/ver/1216/trunk/plugins/quartz-0.4.2/application.properties
+END
+QuartzGrailsPlugin.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/tdstm/!svn/ver/1216/trunk/plugins/quartz-0.4.2/QuartzGrailsPlugin.groovy
+END
+plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/tdstm/!svn/ver/1216/trunk/plugins/quartz-0.4.2/plugin.xml
+END

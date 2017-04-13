@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/tdstm/!svn/ver/123/trunk/webtest/home/resources/build
+END
+WebTestReport.reference.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/tdstm/!svn/ver/123/trunk/webtest/home/resources/build/WebTestReport.reference.xml
+END
+log4j_template.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/tdstm/!svn/ver/123/trunk/webtest/home/resources/build/log4j_template.xml
+END
+cleanWebTestReport.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/tdstm/!svn/ver/123/trunk/webtest/home/resources/build/cleanWebTestReport.groovy
+END
+EmptyWebTestReport.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/tdstm/!svn/ver/123/trunk/webtest/home/resources/build/EmptyWebTestReport.html
+END

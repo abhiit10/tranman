@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/tdstm/!svn/ver/3511/trunk/grails-app/views/newsEditor
+END
+newsEditorList.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/tdstm/!svn/ver/3511/trunk/grails-app/views/newsEditor/newsEditorList.gsp
+END
+_newsEditor.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/tdstm/!svn/ver/3469/trunk/grails-app/views/newsEditor/_newsEditor.gsp
+END

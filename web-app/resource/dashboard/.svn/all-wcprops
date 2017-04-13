@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/tdstm/!svn/ver/983/trunk/web-app/resource/dashboard
+END
+summary_gauge.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/tdstm/!svn/ver/983/trunk/web-app/resource/dashboard/summary_gauge.xml
+END
+step_gauge.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/tdstm/!svn/ver/983/trunk/web-app/resource/dashboard/step_gauge.xml
+END
+revised_gauge.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/tdstm/!svn/ver/983/trunk/web-app/resource/dashboard/revised_gauge.xml
+END

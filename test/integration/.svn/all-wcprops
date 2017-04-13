@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/tdstm/!svn/ver/4118/trunk/test/integration
+END
+GormUtilTests.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/tdstm/!svn/ver/3715/trunk/test/integration/GormUtilTests.groovy
+END
+TDS_sequence.jmx
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tdstm/!svn/ver/4118/trunk/test/integration/TDS_sequence.jmx
+END
+CablingTests.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/tdstm/!svn/ver/3888/trunk/test/integration/CablingTests.groovy
+END
+TaskServiceTests.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/tdstm/!svn/ver/2533/trunk/test/integration/TaskServiceTests.groovy
+END
+PersonServiceTests.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/tdstm/!svn/ver/3471/trunk/test/integration/PersonServiceTests.groovy
+END
+SequenceServiceTests.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/tdstm/!svn/ver/4118/trunk/test/integration/SequenceServiceTests.groovy
+END

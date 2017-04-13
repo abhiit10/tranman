@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/tdstm/!svn/ver/2398/trunk/plugins/mail-1.0/src/groovy/grails/plugin/mail
+END
+MailMessageContentRenderer.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/tdstm/!svn/ver/2398/trunk/plugins/mail-1.0/src/groovy/grails/plugin/mail/MailMessageContentRenderer.groovy
+END
+MailMessageBuilder.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/tdstm/!svn/ver/2398/trunk/plugins/mail-1.0/src/groovy/grails/plugin/mail/MailMessageBuilder.groovy
+END
+MailMessageContentRender.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/tdstm/!svn/ver/2398/trunk/plugins/mail-1.0/src/groovy/grails/plugin/mail/MailMessageContentRender.groovy
+END
+MailMessageBuilderFactory.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/tdstm/!svn/ver/2398/trunk/plugins/mail-1.0/src/groovy/grails/plugin/mail/MailMessageBuilderFactory.groovy
+END
+GrailsMailException.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/tdstm/!svn/ver/2398/trunk/plugins/mail-1.0/src/groovy/grails/plugin/mail/GrailsMailException.groovy
+END

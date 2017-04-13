@@ -1,0 +1,185 @@
+10
+
+dir
+4383
+http://svn.tdsops.com/svn/tdstm/trunk/grails-app/views
+http://svn.tdsops.com/svn/tdstm
+
+
+
+2014-05-16T11:27:27.044148Z
+4381
+lokanada
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+fecba46a-3362-0410-80e5-8c76cdb905a0
+
+admin
+dir
+
+application
+dir
+
+assetEntity
+dir
+
+auth
+dir
+
+cartTracking
+dir
+
+clientConsole
+dir
+
+clientTeams
+dir
+
+cookbook
+dir
+
+dashboard
+dir
+
+dataTransferBatch
+dir
+
+database
+dir
+
+error.gsp
+file
+
+
+
+
+2013-12-27T06:30:08.223000Z
+82eb8c9424e9031ccc6a84b013111fda
+2013-07-30T12:45:18.952497Z
+3515
+lokanada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2216
+
+files
+dir
+
+layouts
+dir
+
+manufacturer
+dir
+
+model
+dir
+
+modelSyncBatch
+dir
+
+moveBundle
+dir
+
+moveBundleAsset
+dir
+
+moveEvent
+dir
+
+moveTech
+dir
+
+newsEditor
+dir
+
+party
+dir
+
+partyGroup
+dir
+
+partyRelationship
+dir
+
+partyRelationshipType
+dir
+
+partyRole
+dir
+
+partyType
+dir
+
+permissions
+dir
+
+person
+dir
+
+project
+dir
+
+projectTeam
+dir
+
+projectUtil
+dir
+
+rackLayouts
+dir
+
+refCode
+dir
+
+reports
+dir
+
+roleType
+dir
+
+room
+dir
+
+task
+dir
+
+userLogin
+dir
+
+walkThrough
+dir
+
+workflow
+dir
+

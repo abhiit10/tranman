@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/tdstm/!svn/ver/1209/trunk/selenium/UserExtensionFiles
+END
+user-extensions.js.includeCommand4IDE
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/tdstm/!svn/ver/1023/trunk/selenium/UserExtensionFiles/user-extensions.js.includeCommand4IDE
+END
+datadriven.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/tdstm/!svn/ver/1023/trunk/selenium/UserExtensionFiles/datadriven.js
+END
+RandomVal.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/tdstm/!svn/ver/1209/trunk/selenium/UserExtensionFiles/RandomVal.js
+END
+data.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/tdstm/!svn/ver/1192/trunk/selenium/UserExtensionFiles/data.js
+END
+goto_sel_ide.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/tdstm/!svn/ver/1023/trunk/selenium/UserExtensionFiles/goto_sel_ide.js
+END
+user-extensions.js.getTableRows
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/tdstm/!svn/ver/1192/trunk/selenium/UserExtensionFiles/user-extensions.js.getTableRows
+END

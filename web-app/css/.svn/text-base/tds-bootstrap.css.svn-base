@@ -1,0 +1,44 @@
+/* Bootstrap Styles Overwirtes */
+
+.body{
+	float:none;
+	margin:0;
+}
+
+.nav{
+	background: transparent;
+	border: none;
+	margin-top: 0;
+	padding: 0;
+	border-bottom: 1px solid #ddd;
+	padding-left: 0;
+	margin-bottom: 0;
+	list-style: none;
+}
+
+
+table{
+	font-size: 1em;
+}
+
+.btn[disabled], .btn.btn-primary[disabled]{
+	background-color: RGBA(80, 80, 80, 0.3);
+	border-color: RGBA(190, 190, 190, 0.5);
+}
+
+.btn[disabled], .btn, .btn.btn-default, .btn.btn-default:hover, .btn:hover{
+	font-weight: normal;
+}
+
+.nav-tabs > li > a{
+	font-weight: normal;
+}
+
+form label, * label{
+	font-weight: normal;
+}
+
+.show{
+	display: block !important;
+	visibility: visible !important;
+}

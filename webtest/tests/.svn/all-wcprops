@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/tdstm/!svn/ver/1305/trunk/webtest/tests
+END
+MoveEventTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tdstm/!svn/ver/908/trunk/webtest/tests/MoveEventTest.groovy
+END
+LoginTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/tdstm/!svn/ver/216/trunk/webtest/tests/LoginTest.groovy
+END
+MoveTechTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tdstm/!svn/ver/579/trunk/webtest/tests/MoveTechTest.groovy
+END
+ProjectStaffTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/tdstm/!svn/ver/225/trunk/webtest/tests/ProjectStaffTest.groovy
+END
+AuthControllerTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/tdstm/!svn/ver/216/trunk/webtest/tests/AuthControllerTest.groovy
+END
+MoveTechLoginTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/tdstm/!svn/ver/579/trunk/webtest/tests/MoveTechLoginTest.groovy
+END
+CartTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/tdstm/!svn/ver/626/trunk/webtest/tests/CartTest.groovy
+END
+CleanTechTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/tdstm/!svn/ver/1305/trunk/webtest/tests/CleanTechTest.groovy
+END
+AdminRoleValidationTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/tdstm/!svn/ver/216/trunk/webtest/tests/AdminRoleValidationTest.groovy
+END
+ProjectTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/tdstm/!svn/ver/219/trunk/webtest/tests/ProjectTest.groovy
+END
+PartyGroupTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/tdstm/!svn/ver/227/trunk/webtest/tests/PartyGroupTest.groovy
+END
+ImportExportTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/tdstm/!svn/ver/254/trunk/webtest/tests/ImportExportTest.groovy
+END
+ProjectTeamTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/tdstm/!svn/ver/216/trunk/webtest/tests/ProjectTeamTest.groovy
+END
+PersonTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/tdstm/!svn/ver/227/trunk/webtest/tests/PersonTest.groovy
+END
+TestSuite.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/tdstm/!svn/ver/123/trunk/webtest/tests/TestSuite.groovy
+END
+ApplicationTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/tdstm/!svn/ver/217/trunk/webtest/tests/ApplicationTest.groovy
+END

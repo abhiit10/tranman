@@ -1,0 +1,1154 @@
+body {
+    background: #fff;
+    color: #333;
+    font: 12px helvetica, arial, sans-serif;
+}
+br.page-break-after {
+	page-break-after: always;
+}
+
+.empty {
+	background: #ffffff;
+}
+#roomObjects {
+  position: absolute;
+  height: auto; width: 900px !important;
+  top: 170px; right: 5px; bottom: 25px;
+  margin: 0;
+  float: none !important;
+  overflow-y: auto !important;
+  background-color: #E5E5E5;
+}
+#roomObjects td {
+	padding: 0px;
+}
+.objectSelected {
+	box-shadow: #888 5px 5px 10px;
+}
+.divShadow {
+	box-shadow: #888 5px 5px 10px;
+}
+.objectRowSelected {
+	box-shadow: #888 5px 5px 10px;
+}
+#rackLayout {
+  position: absolute !important;
+  display:table;  
+  width: auto !important;
+  top: 194px; 
+  right: 5px; 
+  background-color: white !important;
+}
+.audit{
+	margin-right: 25% !important;
+}
+.nonAdudit{
+	float:right !important;
+}
+#rackLayout .body {
+  height: 100%;
+}
+#rackLayout td {
+	padding: 1px;
+}
+
+/*CSS for RackLayout in Rack view for changed Id 'racksLayout'*/
+#racksLayout {
+  position: inherit;
+  height: auto; width: auto !important;
+  top: 70px; right: 5px; bottom: 25px;
+  margin: 0;
+  padding-right: 18px;
+  float: left !important;
+  overflow-y: auto !important;
+  background-color: white;
+}
+#racksLayout .body {
+  height: 100%;
+}
+#racksLayout td {
+	padding: 1px;
+}
+#room_layout {
+}
+#roomLayout_body {
+ width: auto !important;
+  overflow-x: visible !important;
+}
+.racktop_label {
+	position: relative;
+	top: 30%;
+	color: black;
+	text-align: center ;
+	/*margin-top: 6%; */
+}
+.racktop_h {
+	width:60px;
+	height:40px;
+	border: 2px solid black;
+	background-color: #ffffff;
+}
+.racktop_v {
+	width:40px;
+	height:60px;
+	border: 2px solid black;
+	background-color: #ffffff;
+}
+.room_tile {
+	height:40px;
+	width:40px;
+	border:1px solid grey;
+	padding:0px
+}
+.room_CRAC_L, .room_CRAC_R {
+	width:60px;
+	height:100px;
+	border: 1px solid black;
+	background-color:white;
+	position:absolute;
+}
+.room_CRAC_T, .room_CRAC_B {
+	width:100px;
+	height:60px;
+	border: 1px solid black;
+	background-color:white;
+	position:absolute;
+}
+
+.room_DoorR_R {
+	width:30px;
+	height:60px;
+	border: 0px solid black;
+	background-color: transparent;
+	background-image: url(/tdstm/i/DoorR_R.gif);
+	background-repeat: no-repeat;
+	background-position: right top;
+	position:absolute;
+}
+.room_DoorR_L {
+	width:30px;
+	height:60px;
+	border: 0px solid black;
+	background-color: transparent;
+	background-image: url(/tdstm/i/DoorR_L.gif);
+	background-repeat: no-repeat;
+	background-position: right top;
+	position:absolute;
+}
+.room_DoorR_T {
+	width:60px;
+	height:30px;
+	border: 0px solid black;
+	background-color: transparent;
+	background-image: url(/tdstm/i/DoorR_T.gif);
+	background-repeat: no-repeat;
+	background-position: right top;
+	position:absolute;
+}
+.room_DoorR_B {
+	width:60px;
+	height:30px;
+	border: 0px solid black;
+	background-color: transparent;
+	background-image: url(/tdstm/i/DoorR_B.gif);
+	background-repeat: no-repeat;
+	background-position: right top;
+	position:absolute;
+}
+
+.room_DoorL_R {
+	width:30px;
+	height:60px;
+	border: 0px solid black;
+	background-color: transparent;
+	background-image: url(/tdstm/i/DoorL_R.gif);
+	background-repeat: no-repeat;
+	background-position: right top;
+	position:absolute;
+}
+.room_DoorL_L {
+	width:30px;
+	height:60px;
+	border: 0px solid black;
+	background-color: transparent;
+	background-image: url(/tdstm/i/DoorL_L.gif);
+	background-repeat: no-repeat;
+	background-position: right top;
+	position:absolute;
+}
+.room_DoorL_T {
+	width:60px;
+	height:30px;
+	border: 0px solid black;
+	background-color: transparent;
+	background-image: url(/tdstm/i/DoorL_T.gif);
+	background-repeat: no-repeat;
+	background-position: right top;
+	position:absolute;
+}
+.room_DoorL_B {
+	width:60px;
+	height:30px;
+	border: 0px solid black;
+	background-color: transparent;
+	background-image: url(/tdstm/i/DoorL_B.gif);
+	background-repeat: no-repeat;
+	background-position: right top;
+	position:absolute;
+}
+.room_UPS_R, .room_UPS_L {
+	width:60px;
+	height:100px;
+	border: 1px solid black;
+	background-color:white;
+	position:absolute;
+}
+.room_UPS_T, .room_UPS_B {
+	width:100px;
+	height:60px;
+	border: 1px solid black;
+	background-color:white;
+	position:absolute;
+}
+.room_Object_R {
+	width:60px;
+	height:100px;
+	border: 1px solid black;
+	background-color:white;
+	position:absolute;
+}
+.room_Object_L {
+	width:60px;
+	height:100px;
+	border: 1px solid black;
+	background-color:white;
+	position:absolute;
+}
+.room_Object_T {
+	width:100px;
+	height:60px;
+	border: 1px solid black;
+	background-color:white;
+	position:absolute;
+}
+.room_Object_B {
+	width:100px;
+	height:60px;
+	border: 1px solid black;
+	background-color:white;
+	position:absolute;
+}
+
+.room_block1x1_L, .room_block1x1_R {
+	width:20px;
+	height:20px;
+	border: 1px solid gray;
+	background-color:white;
+	position:absolute;
+}
+.room_block1x2_L, .room_block1x2_R {
+	width:20px;
+	height:40px;
+	border: 1px solid gray;
+	background-color:white;
+	position:absolute;
+}
+.room_block1x3_L, .room_block1x3_R {
+	width:20px;
+	height:60px;
+	border: 1px solid gray;
+	background-color:white;
+	position:absolute;
+}
+.room_block1x4_L, .room_block1x4_R {
+	width:20px;
+	height:80px;
+	border: 1px solid gray;
+	background-color:white;
+	position:absolute;
+}
+.room_block1x5_L, .room_block1x5_R {
+	width:20px;
+	height:100px;
+	border: 1px solid gray;
+	background-color:white;
+	position:absolute;
+}
+.room_block2x2_L, .room_block2x2_R {
+	width:40px;
+	height:40px;
+	border: 1px solid gray;
+	background-color:white;
+	position:absolute;
+}
+.room_block2x3_L, .room_block2x3_R {
+	width:40px;
+	height:60px;
+	border: 1px solid gray;
+	background-color:white;
+	position:absolute;
+}
+.room_block2x4_L, .room_block2x4_R {
+	width:40px;
+	height:80px;
+	border: 1px solid gray;
+	background-color:white;
+	position:absolute;
+}
+.room_block2x5_L, .room_block2x5_R {
+	width:40px;
+	height:100px;
+	border: 1px solid gray;
+	background-color:white;
+	position:absolute;
+}
+.room_block3x3_L, .room_block3x3_R {
+	width:60px;
+	height:60px;
+	border: 1px solid gray;
+	background-color:white;
+	position:absolute;
+}
+.room_block3x4_L, .room_block3x4_R {
+	width:60px;
+	height:80px;
+	border: 1px solid gray;
+	background-color:white;
+	position:absolute;
+}
+.room_block3x5_L, .room_block3x5_R {
+	width:60px;
+	height:100px;
+	border: 1px solid gray;
+	background-color:white;
+	position:absolute;
+}
+.room_block4x4_L, .room_block4x4_R {
+	width:80px;
+	height:80px;
+	border: 1px solid gray;
+	background-color:white;
+	position:absolute;
+}
+.room_block4x5_L, .room_block4x5_R {
+	width:80px;
+	height:100px;
+	border: 1px solid gray;
+	background-color:white;
+	position:absolute;
+}
+.room_block5x5_L, .room_block5x5_R {
+	width:100px;
+	height:100px;
+	border: 1px solid gray;
+	background-color:white;
+	position:absolute;
+}
+
+.room_block1x1_T, .room_block1x1_B {
+	width:20px;
+	height:20px;
+	border: 1px solid gray;
+	background-color:white;
+	position:absolute;
+}
+.room_block1x2_T, .room_block1x2_B {
+	width:40px;
+	height:20px;
+	border: 1px solid gray;
+	background-color:white;
+	position:absolute;
+}
+.room_block1x3_T, .room_block1x3_B {
+	width:60px;
+	height:20px;
+	border: 1px solid gray;
+	background-color:white;
+	position:absolute;
+}
+.room_block1x4_T, .room_block1x4_B {
+	width:80px;
+	height:20px;
+	border: 1px solid gray;
+	background-color:white;
+	position:absolute;
+}
+.room_block1x5_T, .room_block1x5_B {
+	width:100px;
+	height:20px;
+	border: 1px solid gray;
+	background-color:white;
+	position:absolute;
+}
+.room_block2x2_T, .room_block2x2_B {
+	width:40px;
+	height:40px;
+	border: 1px solid gray;
+	background-color:white;
+	position:absolute;
+}
+.room_block2x3_T, .room_block2x3_B {
+	width:60px;
+	height:40px;
+	border: 1px solid gray;
+	background-color:white;
+	position:absolute;
+}
+.room_block2x4_T, .room_block2x4_B {
+	width:80px;
+	height:40px;
+	border: 1px solid gray;
+	background-color:white;
+	position:absolute;
+}
+.room_block2x5_T, .room_block2x5_B {
+	width:100px;
+	height:40px;
+	border: 1px solid gray;
+	background-color:white;
+	position:absolute;
+}
+.room_block3x3_T, .room_block3x3_B {
+	width:60px;
+	height:60px;
+	border: 1px solid gray;
+	background-color:white;
+	position:absolute;
+}
+.room_block3x4_T, .room_block3x4_B {
+	width:80px;
+	height:60px;
+	border: 1px solid gray;
+	background-color:white;
+	position:absolute;
+}
+.room_block3x5_T, .room_block3x5_B {
+	width:100px;
+	height:60px;
+	border: 1px solid gray;
+	background-color:white;
+	position:absolute;
+}
+.room_block4x4_T, .room_block4x4_B {
+	width:80px;
+	height:80px;
+	border: 1px solid gray;
+	background-color:white;
+	position:absolute;
+}
+.room_block4x5_T, .room_block4x5_B {
+	width:100px;
+	height:80px;
+	border: 1px solid gray;
+	background-color:white;
+	position:absolute;
+}
+.room_block5x5_T, .room_block5x5_B {
+	width:100px;
+	height:100px;
+	border: 1px solid gray;
+	background-color:white;
+	position:absolute;
+}
+
+.room_mt {
+}
+.powertable_H {
+	background: #ddd;
+	padding: 1px;
+	font-weight: bold;
+	text-align:left;
+}
+.powertable_L {
+	width: 60px;
+	padding: 1px;
+	text-align:left;
+}
+.powertable_C {
+	width: 30px;
+	padding: 1px;
+	text-align:center;
+}
+.powertable_R {
+	width: 30px;
+	padding: 1px;
+	text-align:right;
+}
+table.rack_elevation .rack_upos {
+	background: #ffffff;
+	font-weight: bold;
+	font-size: 0.9em;
+	border: 1px solid black;
+}
+table.rack_elevation .rack_current {
+	background: #7CFE80;
+	font-weight: bold;
+	font-size: 0.9em;
+	border: 1px solid black;
+}
+table.rack_elevation .rack_current a{
+	color: black;
+}
+table.rack_elevation .rack_past {
+	background: #e7e7e7;
+	font-weight: bold;
+	font-size: 0.9em;
+	border: 1px solid grey;
+}
+table.rack_elevation .rack_past a{
+	color: black;
+}
+table.rack_elevation .rack_future {
+	background: #F7D375;
+	font-weight: bold;
+	font-size: 0.9em;
+	border: 1px solid grey;
+}
+table.rack_elevation .rack_future {
+	color: black;
+}
+table.rack_elevation .rack_error {
+	background: #D80B01 !important;
+	color: white !important;
+	font-size: 1.0em;
+	border: 1px dashed black !important;
+}
+table.rack_elevation .rack_error a{
+	color: white !important;
+}
+table.rack_elevation h2 {
+	font-size:1.5em;
+	font-weight:bold;
+	margin:1px;
+}
+
+table.rack_elevation {
+	border: 8px solid #000000;
+	empty-cells: show;
+	-webkit-border-vertical-spacing: 0px;
+	font-family: helvetica, arial, sans-serif !important;
+	font-size: 10px !important;
+}
+
+table.rack_elevation a {
+  text-decoration: underline;
+}
+
+table.rack_elevation.front {
+  width: 250px;
+  margin-bottom: 20px;
+}
+
+table.rack_elevation.back {
+  width: 300px;
+  margin-bottom: 20px;
+}
+
+table.rack_elevation td {
+	text-align: left;
+	font: 8px helvetica, arial, sans-serif;
+	border: 1px solid #999999;
+	padding:0px 2px 0px 2px;
+  vertical-align: top;
+  font-weight: bold;
+}
+
+table.rack_elevation th {
+	font: 10px helvetica, arial, sans-serif;
+	font-weight: bold;
+	text-decoration: underline;
+	padding:0px 2px 0px 2px;
+  vertical-align: top;
+  font-weight: bold;
+  background: none;
+  color: #333333;
+  text-align: center;
+}
+
+table.rack_elevation input, select, textarea {
+    background-color: #fcfcfc;
+    border: 1px solid #ccc;
+    font: 12px  helvetica, arial, sans-serif;
+    margin: 2px 0;
+    padding: 2px 4px;
+}
+.rackModel {
+	width: 150px;
+}
+table.rack_elevation .close-icon {
+	float: left;
+	border: 1px solid #AAAAAA;
+	background-image:url("../images/ui-icons_222222_256x240.png");
+	background-position: -96px -128px;
+	height:18px;
+	width:19px;
+	right: 0.3em;
+	top:50%;
+	color: #222222;
+	
+}
+table.rack_elevation .close-icon:hover {
+	background-color: #AAAAAA;
+	background-image:url("../images/ui-icons_454545_256x240.png");
+}
+
+table.rack_elevation .buttons {
+	background:#FFFFFF url(../images/skin/shadow.jpg) repeat-x scroll center bottom;
+	border:1px solid #CCCCCC;
+	color:#666666;
+	font-size:10px;
+	margin-top:5px;
+	overflow:hidden;
+	padding:0;
+}
+table.rack_elevation .buttons input {
+	background:#FFFFFF none repeat scroll 0 0;
+	border:0 none;
+	color:#333333;
+	cursor:pointer;
+	font-size:10px;
+	font-weight:bold;
+	margin-left:3px;
+	overflow:visible;
+	padding:2px 6px;
+}
+table.rack_elevation .buttons input.save {
+	background:transparent url(../images/skin/database_save.png) no-repeat scroll 5px 50%;
+	padding-left:28px;
+}
+table.rack_elevation .no_records{
+	font-size: 12px;
+	font-weight: bold;
+	color: maroon;
+	text-align: center;
+}
+table.rack_elevation table.bladeTable {
+	border: none;
+}
+table.rack_elevation table.bladeTable td {
+	width:15px;
+	text-align:center;
+}
+
+table.rack_elevation table.bladeTable td.emptyBlade {
+	background-color:white;
+}
+
+table.rack_elevation table.bladeTable td.blade {
+}
+
+table.rack_elevation table.bladeTable td.errorBlade {
+	background-color:red;
+}
+.rack_elevation_td {
+	vertical-align: top;
+}
+.inputbdr {
+	border:1px solid #333333;
+	font-size:12px;
+}
+.inputs_div input{
+	border:1px solid #333333;
+	font-size:12px;
+}
+.unknown {
+	border:1px solid #333333;
+	font-size:12px;
+	background-color: #FFFFFF;
+}
+.empty_cable {
+	border:1px solid #333333;
+	font-size:12px;
+	background-color: #CCCCCC;
+}
+.cabled {
+	border:1px solid #333333;
+	font-size:12px;
+	background-color: #3300FF;
+}
+.cabled_details {
+	border:1px solid #333333;
+	font-size:12px;
+	background-color: green;
+}
+
+#cablingPanel {
+	width: 379px;
+	height: 199px;
+	border: 2px solid black;
+	margin-right: 5px;
+	margin-bottom: 5px;
+	background-color: LightGreen; 
+	position: relative;
+}
+#cablingPanel div {
+	position: absolute; 
+	left: 0; 
+	top: 0
+}
+.cablingPanel {
+	width: 379px;
+	height: 199px;
+	border: 2px solid black;
+	margin-right: 5px;
+	margin-bottom: 5px;
+	background-color: LightGreen; 
+	position: relative;
+}
+.cablingPanel div {
+	position: absolute; 
+	left: 0; 
+	top: 0
+}
+#optionsPanel {
+	margin-bottom: 5px;
+}
+#optionsPanel li {
+	list-style: none;
+	margin-bottom: 5px;
+	margin-top: 5px;
+	margin-right: 5px;
+}
+#optionsPanel li a:link, a:visited, a:hover {
+	border: 0;
+}
+#optionsPanel li img{
+	vertical-align: middle;
+}
+.connector_Bottom{
+	margin-top: 19px;
+}
+.connector_Right{
+	margin-left: 19px;
+}
+.connector_Left{
+	margin-left: -66px;
+}
+.connector_Top{
+	margin-top: -13px;
+}
+.rack_cable_table {
+	border: 0px solid black;
+}
+.rack_cable_table td {
+	border: 0px solid black;
+}
+
+#room_layout {
+	margin-left: 10px;
+	margin-top: 10px;
+}
+.roomLayoutTable {
+	margin-right: 20px;
+	border: 1px solid black;
+}
+.roomLayoutTable td {
+	border-top: 1px solid black;
+}
+
+.rack_highlight{
+	width:60px;
+	height:40px;
+	border: 2px solid black;
+	background-color: #7CFE80;
+	position:absolute;
+}
+.rack_highlight_L{
+	width:60px;
+	height:40px;
+	border-style: solid;
+	border-top-width: 2px;
+	border-right-width: 2px;
+	border-bottom-width: 2px;
+	border-left-width: 3px;
+	border-top-color: black;
+	border-right-color: red;
+	border-bottom-color: black;
+	border-left-color: blue;
+	background-color: #7CFE80;
+	position:absolute;
+}
+.rack_highlight_R{
+	width:60px;
+	height:40px;
+	border-style: solid;
+	border-top-width: 2px;
+	border-right-width: 3px;
+	border-bottom-width: 2px;
+	border-left-width: 2px;
+	border-top-color: black;
+	border-right-color: blue;
+	border-bottom-color: black;
+	border-left-color: red;
+	background-color: #7CFE80;
+	position:absolute;
+}
+.rack_highlight_T{
+	width:40px;
+	height:60px;
+	border-style: solid;
+	border-top-width: 3px;
+	border-right-width: 2px;
+	border-bottom-width: 2px;
+	border-left-width: 2px;
+	border-top-color: blue;
+	border-right-color: black;
+	border-bottom-color: red;
+	border-left-color: black;
+	background-color: #7CFE80;
+	position:absolute;
+}
+.rack_highlight_B{
+	width:40px;
+	height:60px;
+	border-style: solid;
+	border-top-width: 2px;
+	border-right-width: 2px;
+	border-bottom-width: 3px;
+	border-left-width: 2px;
+	border-top-color: red;
+	border-right-color: black;
+	border-bottom-color: blue;
+	border-left-color: black;
+	background-color: #7CFE80;
+	position:absolute;
+}
+
+.rack_highlight_no{
+	width:60px;
+	height:40px;
+	border: 1px solid black;
+	background-color: #FFF;
+	position:absolute;
+}
+.rack_highlight_no_L{
+	width:60px;
+	height:40px;
+	border-style: solid;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 2px;
+	border-top-color: black;
+	border-right-color: red;
+	border-bottom-color: black;
+	border-left-color: blue;
+	background-color: #FFF;
+	position:absolute;
+}
+.rack_highlight_no_R{
+	width:60px;
+	height:40px;
+	border-style: solid;
+	border-top-width: 1px;
+	border-right-width: 2px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-color: black;
+	border-right-color: blue;
+	border-bottom-color: black;
+	border-left-color: red;
+	background-color: #FFF;
+	position:absolute;
+}
+.rack_highlight_no_T{
+	width:40px;
+	height:60px;
+	border-style: solid;
+	border-top-width: 2px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-color: blue;
+	border-right-color: black;
+	border-bottom-color: red;
+	border-left-color: black;
+	background-color: #FFF;
+	position:absolute;
+}
+.rack_highlight_no_B{
+	width:40px;
+	height:60px;
+	border-style: solid;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 2px;
+	border-left-width: 1px;
+	border-top-color: red;
+	border-right-color: black;
+	border-bottom-color: blue;
+	border-left-color: black;
+	background-color: #FFF;
+	position:absolute;
+}
+.cap_tab{
+	padding:1px 5px;
+	font:10px  helvetica, arial, sans-serif;
+}
+.rack_cap20{
+	background-color: #66FE66 !important;
+}
+.rack_cap32{
+	background-color: #ade85a !important;
+}
+.rack_cap44{
+	background-color: palegreen !important;
+}
+.rack_cap56{
+	background-color: #FFF566 !important;
+}
+.rack_cap68{
+	background-color: #FFC966 !important;
+}
+.rack_cap80{
+	background-color: #FF8F65 !important;
+}
+.rack_cap100{
+	background-color: #FF544B !important;
+}
+.rack_layout_style1{
+	width:100px;
+	height:80px;
+	border-style: solid;
+	border-top-width: 2px;
+	border-right-width: 2px;
+	border-bottom-width: 2px;
+	border-left-width: 3px;
+	border-top-color: black;
+	border-right-color: red;
+	border-bottom-color: black;
+	border-left-color: blue;
+	background-color: #FFF;
+	position:absolute;
+}
+.rack_layout_style2{
+	width:100px;
+	height:80px;
+	border-style: solid;
+	border-top-width: 2px;
+	border-right-width: 2px;
+	border-bottom-width: 2px;
+	border-left-width: 3px;
+	border-top-color: black;
+	border-right-color: red;
+	border-bottom-color: black;
+	border-left-color: blue;
+	background-color: #FFF;
+	position:absolute;
+}
+.rack_layout_style3{
+	width:100px;
+	height:80px;
+	border-style: solid;
+	border-top-width: 2px;
+	border-right-width: 2px;
+	border-bottom-width: 2px;
+	border-left-width: 3px;
+	border-top-color: black;
+	border-right-color: red;
+	border-bottom-color: black;
+	border-left-color: blue;
+	background-color: #FFF;
+	position:absolute;
+}
+#auditDetailViewId{
+	position: absolute !important;
+	margin-left:72.3%;
+	margin-top: 10px;
+	width: 295px !important;
+	background-color: white !important;
+}
+.capCount {
+	font-size: 10px;
+	color: #000;
+}
+#datetimepicker_div {
+    border: 1px solid #777777;
+    display: none;
+    z-index: 99999 !important;
+}
+.ui-dialog .ui-dialog-titlebar-close span { 
+	display: block; 
+	margin: -8px !important; 
+}
+/* Alternative rack sizes */
+.rackwide1_L{
+	width:80px;
+	height:53px;
+	border-style: solid;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 2px;
+	border-top-color: black;
+	border-right-color: red;
+	border-bottom-color: black;
+	border-left-color: blue;
+	background-color: #FFF;
+	position:absolute;
+}
+.rackwide1_R{
+	width:80px;
+	height:53px;
+	border-style: solid;
+	border-top-width: 1px;
+	border-right-width: 2px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-color: black;
+	border-right-color: blue;
+	border-bottom-color: black;
+	border-left-color: red;
+	background-color: #FFF;
+	position:absolute;
+}
+.rackwide1_T{
+	width:53px;
+	height:80px;
+	border-style: solid;
+	border-top-width: 2px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-color: blue;
+	border-right-color: black;
+	border-bottom-color: red;
+	border-left-color: black;
+	background-color: #FFF;
+	position:absolute;
+}
+.rackwide1_B{
+	width:53px;
+	height:80px;
+	border-style: solid;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 2px;
+	border-left-width: 1px;
+	border-top-color: red;
+	border-right-color: black;
+	border-bottom-color: blue;
+	border-left-color: black;
+	background-color: #FFF;
+	position:absolute;
+}
+.rackwide2_L{
+	width:87px;
+	height:54px;
+	border-style: solid;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 2px;
+	border-top-color: black;
+	border-right-color: red;
+	border-bottom-color: black;
+	border-left-color: blue;
+	background-color: #FFF;
+	position:absolute;
+}
+.rackwide2_R{
+	width:87px;
+	height:54px;
+	border-style: solid;
+	border-top-width: 1px;
+	border-right-width: 2px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-color: black;
+	border-right-color: blue;
+	border-bottom-color: black;
+	border-left-color: red;
+	background-color: #FFF;
+	position:absolute;
+}
+.rackwide2_T{
+	width:54px;
+	height:87px;
+	border-style: solid;
+	border-top-width: 2px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-color: blue;
+	border-right-color: black;
+	border-bottom-color: red;
+	border-left-color: black;
+	background-color: #FFF;
+	position:absolute;
+}
+.rackwide2_B{
+	width:54px;
+	height:87px;
+	border-style: solid;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 2px;
+	border-left-width: 1px;
+	border-top-color: red;
+	border-right-color: black;
+	border-bottom-color: blue;
+	border-left-color: black;
+	background-color: #FFF;
+	position:absolute;
+}
+.rackdeep1_L{
+	width:87px;
+	height:40px;
+	border-style: solid;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 2px;
+	border-top-color: black;
+	border-right-color: red;
+	border-bottom-color: black;
+	border-left-color: blue;
+	background-color: #FFF;
+	position:absolute;
+}
+.rackdeep1_R{
+	width:87px;
+	height:40px;
+	border-style: solid;
+	border-top-width: 1px;
+	border-right-width: 2px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-color: black;
+	border-right-color: blue;
+	border-bottom-color: black;
+	border-left-color: red;
+	background-color: #FFF;
+	position:absolute;
+}
+.rackdeep1_T{
+	width:40px;
+	height:87px;
+	border-style: solid;
+	border-top-width: 2px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-color: blue;
+	border-right-color: black;
+	border-bottom-color: red;
+	border-left-color: black;
+	background-color: #FFF;
+	position:absolute;
+}
+.rackdeep1_B{
+	width:40px;
+	height:87px;
+	border-style: solid;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 2px;
+	border-left-width: 1px;
+	border-top-color: red;
+	border-right-color: black;
+	border-bottom-color: blue;
+	border-left-color: black;
+	background-color: #FFF;
+	position:absolute;
+}

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/tdstm/!svn/ver/1216/trunk/plugins/jquery-1.4.2.5/scripts
+END
+_Install.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/tdstm/!svn/ver/1216/trunk/plugins/jquery-1.4.2.5/scripts/_Install.groovy
+END
+InstallJquery.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/tdstm/!svn/ver/1216/trunk/plugins/jquery-1.4.2.5/scripts/InstallJquery.groovy
+END
+_Uninstall.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/tdstm/!svn/ver/1216/trunk/plugins/jquery-1.4.2.5/scripts/_Uninstall.groovy
+END
+_Upgrade.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/tdstm/!svn/ver/1216/trunk/plugins/jquery-1.4.2.5/scripts/_Upgrade.groovy
+END

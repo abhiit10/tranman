@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/tdstm/!svn/ver/3902/trunk/grails-app/views/admin
+END
+importAccounts.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/tdstm/!svn/ver/3455/trunk/grails-app/views/admin/importAccounts.gsp
+END
+projectReport.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/tdstm/!svn/ver/3817/trunk/grails-app/views/admin/projectReport.gsp
+END
+bootstrap.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/tdstm/!svn/ver/3374/trunk/grails-app/views/admin/bootstrap.gsp
+END
+orphanSummary.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/tdstm/!svn/ver/1836/trunk/grails-app/views/admin/orphanSummary.gsp
+END
+_projectSummaryReport.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/tdstm/!svn/ver/3902/trunk/grails-app/views/admin/_projectSummaryReport.gsp
+END
+_getAssetTypes.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/tdstm/!svn/ver/3764/trunk/grails-app/views/admin/_getAssetTypes.gsp
+END

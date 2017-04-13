@@ -1,0 +1,37 @@
+10
+
+dir
+4383
+http://svn.tdsops.com/svn/tdstm/trunk/webtest
+http://svn.tdsops.com/svn/tdstm
+
+
+
+2010-09-06T14:34:06.642139Z
+1305
+lokanada
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+fecba46a-3362-0410-80e5-8c76cdb905a0
+
+conf
+dir
+
+home
+dir
+
+tests
+dir
+

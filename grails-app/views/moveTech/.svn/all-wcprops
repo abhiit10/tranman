@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/tdstm/!svn/ver/2895/trunk/grails-app/views/moveTech
+END
+home.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/tdstm/!svn/ver/2895/trunk/grails-app/views/moveTech/home.gsp
+END
+assetTask.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/tdstm/!svn/ver/2895/trunk/grails-app/views/moveTech/assetTask.gsp
+END
+assetSearch.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/tdstm/!svn/ver/2895/trunk/grails-app/views/moveTech/assetSearch.gsp
+END
+login.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/tdstm/!svn/ver/2895/trunk/grails-app/views/moveTech/login.gsp
+END

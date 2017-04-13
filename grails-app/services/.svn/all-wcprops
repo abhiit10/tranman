@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/tdstm/!svn/ver/4381/trunk/grails-app/services
+END
+ProjectService.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/tdstm/!svn/ver/4343/trunk/grails-app/services/ProjectService.groovy
+END
+UnauthorizedException.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/tdstm/!svn/ver/3958/trunk/grails-app/services/UnauthorizedException.groovy
+END
+ProgressInfo.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/tdstm/!svn/ver/4153/trunk/grails-app/services/ProgressInfo.groovy
+END
+EventService.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/tdstm/!svn/ver/4192/trunk/grails-app/services/EventService.groovy
+END
+MaintService.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/tdstm/!svn/ver/3683/trunk/grails-app/services/MaintService.groovy
+END
+AssetEntityAttributeLoaderService.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/tdstm/!svn/ver/4209/trunk/grails-app/services/AssetEntityAttributeLoaderService.groovy
+END
+InternalSequenceService.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/tdstm/!svn/ver/4118/trunk/grails-app/services/InternalSequenceService.groovy
+END
+CommentService.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/tdstm/!svn/ver/4212/trunk/grails-app/services/CommentService.groovy
+END
+InvalidSyntaxException.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/tdstm/!svn/ver/4037/trunk/grails-app/services/InvalidSyntaxException.groovy
+END
+ModelService.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/tdstm/!svn/ver/4022/trunk/grails-app/services/ModelService.groovy
+END
+ClientTeamsService.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/tdstm/!svn/ver/1636/trunk/grails-app/services/ClientTeamsService.groovy
+END
+ProgressService.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/tdstm/!svn/ver/4193/trunk/grails-app/services/ProgressService.groovy
+END
+StepSnapshotService.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/tdstm/!svn/ver/1755/trunk/grails-app/services/StepSnapshotService.groovy
+END
+EmptyResultException.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/tdstm/!svn/ver/3958/trunk/grails-app/services/EmptyResultException.groovy
+END
+CookbookService.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/tdstm/!svn/ver/4376/trunk/grails-app/services/CookbookService.groovy
+END
+AssetEntityService.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/tdstm/!svn/ver/4343/trunk/grails-app/services/AssetEntityService.groovy
+END
+MoveBundleService.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/tdstm/!svn/ver/4247/trunk/grails-app/services/MoveBundleService.groovy
+END
+StateEngineService.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/tdstm/!svn/ver/2675/trunk/grails-app/services/StateEngineService.groovy
+END
+RunbookService.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/tdstm/!svn/ver/3802/trunk/grails-app/services/RunbookService.groovy
+END
+WalkThroughService.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/tdstm/!svn/ver/1755/trunk/grails-app/services/WalkThroughService.groovy
+END
+InvalidParamException.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/tdstm/!svn/ver/4037/trunk/grails-app/services/InvalidParamException.groovy
+END
+PartyRelationshipService.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/tdstm/!svn/ver/4197/trunk/grails-app/services/PartyRelationshipService.groovy
+END
+WorkflowService.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/tdstm/!svn/ver/3101/trunk/grails-app/services/WorkflowService.groovy
+END
+ReportsService.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/tdstm/!svn/ver/4283/trunk/grails-app/services/ReportsService.groovy
+END
+SecurityService.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/tdstm/!svn/ver/4204/trunk/grails-app/services/SecurityService.groovy
+END
+SequenceService.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/tdstm/!svn/ver/4118/trunk/grails-app/services/SequenceService.groovy
+END
+TaskService.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/tdstm/!svn/ver/4381/trunk/grails-app/services/TaskService.groovy
+END
+UserPreferenceService.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/tdstm/!svn/ver/4338/trunk/grails-app/services/UserPreferenceService.groovy
+END
+MoveEventService.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/tdstm/!svn/ver/3647/trunk/grails-app/services/MoveEventService.groovy
+END
+UserService.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/tdstm/!svn/ver/4381/trunk/grails-app/services/UserService.groovy
+END
+SupervisorConsoleService.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/tdstm/!svn/ver/4162/trunk/grails-app/services/SupervisorConsoleService.groovy
+END
+ApplicationService.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/tdstm/!svn/ver/4181/trunk/grails-app/services/ApplicationService.groovy
+END
+TaskNonTranService.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/tdstm/!svn/ver/3263/trunk/grails-app/services/TaskNonTranService.groovy
+END
+PmoAssetTrackingService.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/tdstm/!svn/ver/3463/trunk/grails-app/services/PmoAssetTrackingService.groovy
+END
+PersonService.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/tdstm/!svn/ver/4204/trunk/grails-app/services/PersonService.groovy
+END

@@ -1,0 +1,43 @@
+10
+
+dir
+4383
+http://svn.tdsops.com/svn/tdstm/trunk/plugins/ref-code-0.2.1/docs/gapi/grails-app
+http://svn.tdsops.com/svn/tdstm
+
+
+
+2010-07-20T14:55:40.187046Z
+1216
+lokanada
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+fecba46a-3362-0410-80e5-8c76cdb905a0
+
+conf
+dir
+
+domain
+dir
+
+services
+dir
+
+taglib
+dir
+
+utils
+dir
+

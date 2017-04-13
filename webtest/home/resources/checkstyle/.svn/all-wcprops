@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tdstm/!svn/ver/123/trunk/webtest/home/resources/checkstyle
+END
+suppressions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/tdstm/!svn/ver/123/trunk/webtest/home/resources/checkstyle/suppressions.xml
+END
+config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/tdstm/!svn/ver/123/trunk/webtest/home/resources/checkstyle/config.xml
+END
+checkstyle-frames.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/tdstm/!svn/ver/123/trunk/webtest/home/resources/checkstyle/checkstyle-frames.xsl
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tdstm/!svn/ver/2238/trunk/selenium/Scripts/Asset/Individual
+END
+Asset_Import
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/tdstm/!svn/ver/1998/trunk/selenium/Scripts/Asset/Individual/Asset_Import
+END
+Asset_Read
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/tdstm/!svn/ver/1998/trunk/selenium/Scripts/Asset/Individual/Asset_Read
+END
+Asset_Filter
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/tdstm/!svn/ver/2238/trunk/selenium/Scripts/Asset/Individual/Asset_Filter
+END
+Asset_Edit
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/tdstm/!svn/ver/2238/trunk/selenium/Scripts/Asset/Individual/Asset_Edit
+END
+Asset_Delete
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/tdstm/!svn/ver/1998/trunk/selenium/Scripts/Asset/Individual/Asset_Delete
+END
+Asset_Create
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/tdstm/!svn/ver/2238/trunk/selenium/Scripts/Asset/Individual/Asset_Create
+END

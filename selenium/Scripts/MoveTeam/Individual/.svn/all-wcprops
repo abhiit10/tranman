@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/tdstm/!svn/ver/2002/trunk/selenium/Scripts/MoveTeam/Individual
+END
+BundleTeam_Read
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/tdstm/!svn/ver/2002/trunk/selenium/Scripts/MoveTeam/Individual/BundleTeam_Read
+END
+BundleTeam_Edit
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/tdstm/!svn/ver/2002/trunk/selenium/Scripts/MoveTeam/Individual/BundleTeam_Edit
+END
+BundleTeam_Delete
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/tdstm/!svn/ver/2002/trunk/selenium/Scripts/MoveTeam/Individual/BundleTeam_Delete
+END
+BundleTeam_Create
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/tdstm/!svn/ver/2002/trunk/selenium/Scripts/MoveTeam/Individual/BundleTeam_Create
+END

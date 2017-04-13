@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/tdstm/!svn/ver/4345/trunk/grails-app/views/files
+END
+edit.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/tdstm/!svn/ver/4309/trunk/grails-app/views/files/edit.gsp
+END
+create.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tdstm/!svn/ver/4309/trunk/grails-app/views/files/create.gsp
+END
+show.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/tdstm/!svn/ver/4345/trunk/grails-app/views/files/show.gsp
+END
+list.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/tdstm/!svn/ver/4305/trunk/grails-app/views/files/list.gsp
+END

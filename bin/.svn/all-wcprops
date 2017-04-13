@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/tdstm/!svn/ver/3993/trunk/bin
+END
+tmdeploy
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/tdstm/!svn/ver/3993/trunk/bin/tmdeploy
+END
+tranman_backup
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/tdstm/!svn/ver/3993/trunk/bin/tranman_backup
+END
+tmrelease
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/tdstm/!svn/ver/3993/trunk/bin/tmrelease
+END

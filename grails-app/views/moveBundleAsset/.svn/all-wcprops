@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tdstm/!svn/ver/3904/trunk/grails-app/views/moveBundleAsset
+END
+edit.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/tdstm/!svn/ver/3469/trunk/grails-app/views/moveBundleAsset/edit.gsp
+END
+bundleTeamAssignment.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/tdstm/!svn/ver/3904/trunk/grails-app/views/moveBundleAsset/bundleTeamAssignment.gsp
+END
+create.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/tdstm/!svn/ver/3469/trunk/grails-app/views/moveBundleAsset/create.gsp
+END
+show.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/tdstm/!svn/ver/3469/trunk/grails-app/views/moveBundleAsset/show.gsp
+END
+list.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/tdstm/!svn/ver/3469/trunk/grails-app/views/moveBundleAsset/list.gsp
+END
+moveBundlelist.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/tdstm/!svn/ver/3469/trunk/grails-app/views/moveBundleAsset/moveBundlelist.gsp
+END
+assignAssets.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/tdstm/!svn/ver/3904/trunk/grails-app/views/moveBundleAsset/assignAssets.gsp
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/format
+END
+format.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/format/format.js
+END
+index.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/format/index.js
+END
+round.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/format/round.js
+END
+precision.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/format/precision.js
+END
+collapse.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/format/collapse.js
+END
+requote.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/format/requote.js
+END
+formatPrefix.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/format/formatPrefix.js
+END

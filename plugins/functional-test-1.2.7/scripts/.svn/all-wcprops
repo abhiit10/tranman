@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/tdstm/!svn/ver/1216/trunk/plugins/functional-test-1.2.7/scripts
+END
+_Install.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/tdstm/!svn/ver/1216/trunk/plugins/functional-test-1.2.7/scripts/_Install.groovy
+END
+_Events.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/tdstm/!svn/ver/1216/trunk/plugins/functional-test-1.2.7/scripts/_Events.groovy
+END
+CreateFunctionalTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/tdstm/!svn/ver/1216/trunk/plugins/functional-test-1.2.7/scripts/CreateFunctionalTest.groovy
+END
+FunctionalTests.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/tdstm/!svn/ver/1216/trunk/plugins/functional-test-1.2.7/scripts/FunctionalTests.groovy
+END
+_Upgrade.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/tdstm/!svn/ver/1216/trunk/plugins/functional-test-1.2.7/scripts/_Upgrade.groovy
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/tdstm/!svn/ver/4381/trunk/grails-app/views/dashboard
+END
+_portal.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/tdstm/!svn/ver/4381/trunk/grails-app/views/dashboard/_portal.gsp
+END
+index.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/tdstm/!svn/ver/4270/trunk/grails-app/views/dashboard/index.gsp
+END
+_taskSummary.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/tdstm/!svn/ver/3873/trunk/grails-app/views/dashboard/_taskSummary.gsp
+END
+userPortal.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/tdstm/!svn/ver/4381/trunk/grails-app/views/dashboard/userPortal.gsp
+END

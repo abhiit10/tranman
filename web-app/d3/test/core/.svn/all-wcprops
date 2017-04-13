@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/test/core
+END
+version-test.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/test/core/version-test.js
+END
+rebind-test.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/test/core/rebind-test.js
+END
+functor-test.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/test/core/functor-test.js
+END
+ns-test.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/test/core/ns-test.js
+END

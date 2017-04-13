@@ -1,0 +1,66 @@
+
+.colum_techlogin{
+	width:777px;
+	height:auto;
+	margin:0px;
+	
+
+}
+
+.w_techlog{
+	width:777px;
+	height:600px;
+	float:left;
+	border:1px solid #5F9FCF;
+	padding:0px;
+
+}
+
+dt {
+   font-weight: bold;
+   float: left;
+   margin-right: 2px;
+ }  
+
+.asset_details_block{
+	font-size:9px;
+}
+
+.asset_hold{
+	background-color:#FFFF33;
+	color:black;
+	font-weight:bold;
+}
+
+.asset_ready{
+	background-color:#33ff00;
+	color:black;
+	font-weight:bold;
+}
+
+.asset_process{
+	background-color:#66ffff;
+	color:black;
+	font-weight:bold;
+}
+
+.asset_pending{
+	background-color:#ccc;
+	color:black;
+	font-weight:bold;
+}
+.asset_select{
+	background-color:#65a342;
+	color:black;
+	font-weight:bold;
+}
+
+.asset_done{
+	background-color:#FFFFFF;
+	color:black;
+}
+th {
+   background-color: #000000;
+   color: #ffffff;
+	font-weight:bold;
+}

@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/selection
+END
+classed.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/selection/classed.js
+END
+property.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/selection/property.js
+END
+transition.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/selection/transition.js
+END
+index.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/selection/index.js
+END
+attr.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/selection/attr.js
+END
+enter-select.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/selection/enter-select.js
+END
+style.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/selection/style.js
+END
+datum.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/selection/datum.js
+END
+order.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/selection/order.js
+END
+enter-insert.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/selection/enter-insert.js
+END
+text.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/selection/text.js
+END
+empty.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/selection/empty.js
+END
+selection.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/selection/selection.js
+END
+html.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/selection/html.js
+END
+data.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/selection/data.js
+END
+selectAll.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/selection/selectAll.js
+END
+remove.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/selection/remove.js
+END
+interrupt.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/selection/interrupt.js
+END
+node.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/selection/node.js
+END
+size.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/selection/size.js
+END
+each.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/selection/each.js
+END
+on.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/selection/on.js
+END
+call.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/selection/call.js
+END
+sort.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/selection/sort.js
+END
+select.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/selection/select.js
+END
+append.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/selection/append.js
+END
+insert.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/selection/insert.js
+END
+enter.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/selection/enter.js
+END
+filter.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/tdstm/!svn/ver/3926/trunk/web-app/d3/src/selection/filter.js
+END

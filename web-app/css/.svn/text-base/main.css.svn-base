@@ -1,0 +1,801 @@
+html * {
+    margin: 0;
+    /*padding: 0; SELECT NOT DISPLAYED CORRECTLY IN FIREFOX */
+}
+
+/* GENERAL */
+
+.spinner {
+    padding: 5px;
+    position: absolute;
+    right: 0;
+}
+
+body {
+    background: #fff;
+    color: #333;
+    font: 12px helvetica, arial, sans-serif;
+}
+
+a:link, a:visited, a:hover {
+    color: #666;
+    font-weight: bold;
+    text-decoration: none;
+}
+.links {
+    color: #000 !important;
+    font-weight: bold;
+    text-decoration: none;
+}
+.links:hover {
+	text-decoration: underline;
+}
+h1 {
+    color: #214aa0;
+    font-weight: normal;
+    font-size: 16px;
+    margin: .8em 0 .3em 0;
+}
+
+.heading {
+    color: #63a242;
+    font-weight: bold;
+    font-size: 13px;
+    margin: .0em 0 .0em 0;
+}
+
+ul {
+    padding-left: 15px;	
+}
+
+input, select, textarea {
+    background-color: #fcfcfc;
+    border: 1px solid #ccc;
+    font: 13px helvetica, arial, sans-serif;
+    margin: 2px 0;
+    padding: 2px 4px;
+}
+select {
+	padding: 2px 2px 2px 0;
+}
+
+.body {
+    float: left;
+    margin: 0 15px 10px 15px;
+}
+
+/* NAVIGATION MENU */
+
+.nav {
+    background: #fff url(../images/skin/shadow.jpg) bottom repeat-x;
+    border: 1px solid #ccc;
+    border-style: solid none solid none;	
+    margin-top: 5px;
+    padding: 7px 12px;
+}
+
+.menuButton {
+    font-size: 13px;
+    padding: 0 5px;
+}
+.menuButton a {
+    color: #333;
+    padding: 4px 6px;
+}
+.menuButton a.home {
+    background: url(../images/skin/house.png) center left no-repeat;
+    color: #333;
+    padding-left: 25px;
+}
+.menuButton a.list {
+    background: url(../images/skin/database_table.png) center left no-repeat;
+    color: #333;
+    padding-left: 25px;
+}
+.menuButton a.create {
+    background: url(../images/skin/database_add.png) center left no-repeat;
+    color: #333;
+    padding-left: 25px;
+}
+
+/* MESSAGES AND ERRORS */
+
+.message {
+    background: #f3f8fc url(../images/skin/information.png) 8px 50% no-repeat;
+    border: 1px solid #C7E693;
+    color: #006dba;
+    margin: 10px 0 5px 0;
+    padding: 5px 5px 5px 30px
+}
+
+div.errors {
+    border: 0px solid red;
+    color: #cc0000;
+    margin: 1px 0 1px 0;
+    padding: 1px 0 1px 0;
+}
+div.errors ul {
+    list-style: none;
+    padding: 0;	
+}
+div.errors li {
+	background: url(../images/skin/exclamation.png) 8px 0% no-repeat;
+    line-height: 16px;
+    padding-left: 30px;
+}
+
+td.errors select {
+    border: 1px solid red;
+}
+td.errors input {
+    border: 1px solid red;
+}
+
+/* TABLES */
+
+table {
+    border: 1px solid #63a242;
+    width: 100%;
+    /*float:left */
+}
+tr {
+    border: 0;
+}
+#editDialog td {
+	padding: 0px 6px;
+}
+#createDialog td {
+	padding: 0px 6px;
+}
+td, th { 
+    font: 12px helvetica, arial, sans-serif;
+    line-height: 12px;
+    padding: 5px 6px;
+    text-align: left;
+}
+th {
+    background: #CCCCCC;
+    color: #000;
+    font-size: 12px;
+    font-weight: bold;
+    line-height: 16px;
+    padding: 2px 6px;
+}
+th a:link, th a:visited, th a:hover {
+    color: #333;
+    display: block;
+    font-size: 12px;
+    text-decoration: none;
+    width: 100%;
+}
+th.asc a, th.desc a {
+    background-position: right;
+    background-repeat: no-repeat;
+}
+th.asc a {
+    background-image: url(../images/skin/sorted_asc.gif);
+}
+th.desc a {
+    background-image: url(../images/skin/sorted_desc.gif);
+}
+
+table.inner {
+    border: 0px;
+    border-spacing:0;
+}
+
+.teamstatus_pending {
+	color: black;
+	background-color:#ccc;
+}
+.teamstatus_ready {
+	color: black;
+	background-color:#33ff00;
+}
+.teamstatus_process {
+	color: black;
+	background-color:#66ffff;
+}
+.teamstatus_done {
+	color: black;
+	background-color:#fff;
+}
+
+.odd {
+    background: #e0e0e0;
+}
+.even {
+    background: #fff;
+}
+
+/* LIST */
+
+.list table {
+    border-collapse: collapse;
+}
+.list th, .list td {
+    border-left: 0px solid #ddd;
+}
+.list th:hover, .list tr:hover {
+    background: #87CEEB;
+}
+
+/* PAGINATION */
+
+.paginateButtons {
+    background: #fff url(../images/skin/shadow.jpg) bottom repeat-x;
+    border: 1px solid #ccc;
+    border-top: 0;
+    color: #666;
+    font-size: 12px;
+    overflow: hidden;
+    padding: 10px 3px;
+}
+.paginateButtons a {
+    background: #fff;
+    border: 1px solid #ccc;
+    border-color: #ccc #aaa #aaa #ccc;
+    color: #666;
+    margin: 0 3px;
+    padding: 2px 6px;
+}
+.paginateButtons span {
+    padding: 2px 3px;
+}
+/* for PMO*/
+.pmo_paginateButtons {
+    color: #666;
+    font-size: 12px;
+    overflow: hidden;
+    padding: 10px 3px;
+}
+.pmo_paginateButtons a {
+    background: #fff;
+    border: 1px solid #ccc;
+    border-color: #ccc #aaa #aaa #ccc;
+    color: #666;
+    margin: 0 3px;
+    padding: 2px 6px;
+}
+.pmo_paginateButtons span {
+    padding: 2px 3px;
+}
+/* DIALOG */
+
+.dialog table {
+    padding: 5px 0;
+}
+
+.prop {
+    padding: 5px;
+}
+.prop .name {
+    text-align: left;
+    white-space: nowrap;
+	vertical-align: top;
+    width: 15%;
+}
+.prop .nameNW {
+    text-align: left;
+    white-space: nowrap;
+	vertical-align: top;
+}
+.prop .value {
+    text-align: left;
+	vertical-align: top;
+    width: 85%;
+}
+.prop .valueNW {
+    text-align: left;
+	vertical-align: top;
+}
+
+.prop .bundle {
+    text-align: left;
+    width: 50%;
+}
+
+.prop a {
+    /* #5f9fcf */
+    color:#00E !important;
+}
+
+/* ACTION BUTTONS */
+
+.buttons {
+    background: #fff url(../images/skin/shadow.jpg) bottom repeat-x;
+    border: 1px solid #ccc;
+    color: #666;
+    font-size: 12px;
+    margin-top: 5px;
+    overflow: hidden;
+    padding: 0;
+    /*float:left */
+}
+
+.buttons input {
+    background: #fff;
+    border: 0;
+    color: #333;
+    cursor: pointer;
+    font-size: 13px;
+    font-weight: bold;
+    margin-left: 3px;
+    overflow: visible;
+    padding: 2px 6px;
+}
+td.buttonR .powerIcon {
+	background: url(../images/power-off.png) 5px 50%,
+        url(../images/button_highlight.png) !important;
+  	background-repeat: no-repeat, repeat-x !important;
+	 font: 12px helvetica, arial, sans-serif !important;
+	 background-color:#5F9FCF !important;
+	 font-weight:bold !important;
+	 padding-left: 22px !important;
+}
+.buttons input.delete {
+    background: transparent url(../images/skin/database_delete.png) 5px 50% no-repeat;
+    padding-left: 28px;
+}
+.buttons input.show {
+    background: transparent url(../images/skin/database_table.png) 5px 50% no-repeat;
+    padding-left: 28px;
+}
+.buttons input.edit {
+    background: transparent url(../images/skin/database_edit.png) 5px 50% no-repeat;
+    padding-left: 28px;
+}
+.buttons input.create {
+    background: transparent url(../images/skin/database_add.png) 5px 50% no-repeat;
+    padding-left: 28px;
+}
+.buttons input.select {
+    background: transparent;
+}
+.buttons input.save {
+    background: transparent url(../images/skin/database_save.png) 5px 50% no-repeat;
+    padding-left: 28px;
+}
+.onhold_button {
+    background-color:#FFFF33;
+}
+
+.clear {
+	float:left;
+	clear:both;
+}
+
+.clear_filter {
+	font-size: 14px;
+	color: #B80000;
+	vertical-align: baseline;
+}
+
+.menuButton a.save {
+   background: transparent url(../images/skin/database_save.png) 5px 50% no-repeat;
+    color: #333;
+    padding-left: 25px;
+}
+
+.completed {
+	 background-color:#FFFFFF;
+}
+.pending  {
+	 background-color:#7FFF00;
+}
+.inProgress {
+	 background-color:#0000FF;
+}
+
+.spanAnchor{
+	font-weight: bold;
+	cursor: pointer
+}
+
+.ui-widget-header a {
+	color: #000000 !important;
+}
+
+span.cellWithoutBackground
+{
+    display:block;
+    background-image:none;
+    margin-right:-2px;
+    margin-left:-2px;
+    height:14px;
+    padding:4px;
+    cursor:pointer;
+}
+.pointer {
+	cursor:pointer;
+}
+.disableButton{
+	color: #A6A2A2 !important;
+}
+.capBtn{
+	margin:15px;
+}
+.depSpin{
+	text-align: center;
+}
+.Arrowcursor{
+	cursor: pointer;
+}
+.predArrow{
+	vertical-align: middle;
+}
+.cleanProcessDiv{
+	display: none;
+	height: 500px;
+	overflow-x: auto;
+}
+.headClass{
+	background: none repeat scroll 0 0 #CCCCCC;
+    color: #000000;
+    font-size: 13px;
+    font-weight: bold;
+    line-height: 16px;
+    padding: 2px 6px;
+}
+.willRemain{
+	background-color: lightgreen;
+}
+.willDelete{
+	background-color: yellow;
+}
+.assetSelect{
+	width:135px;
+}
+.assetConnectSelect{
+	width:100px;
+}
+#viewGraphSpanId{
+	position:relative;
+	float: right !important;
+	margin: 0px !important;
+}
+.ellipsis{
+	white-space:nowrap; 
+	width:200px; 
+	overflow:hidden; 
+	text-overflow:ellipsis;
+}
+
+.fieldTable{
+	border: 0 none;
+    margin-left: 27px;
+    margin-top: 21px;
+    position: absolute;
+    width: auto;
+}
+
+.assetFieldHeader1 {
+	margin-left: 10px;
+}
+
+.C{
+	background-color:#F9FF90 !important;
+}
+.I{
+	background-color:#D4F8D4 !important
+}
+.H{
+	background-color:#CCCCCC !important;
+}
+.legend{
+	position:absolute;
+	margin-top:-5px;
+	width:350px;
+}
+.legendTable{
+	background-color: white !important;
+}
+div.field_list{
+	border: 1px solid #63A242;
+	display: none;
+}
+div.field_list table {
+	border: 0px;
+}
+.assetImage{
+	cursor: pointer;
+}
+.assetFieldTable{
+	width :auto;
+	margin-left: 100px;
+}
+.pickbox { 
+	text-align:center;
+	display:block;
+	float:left;
+	width:30px;
+	cursor:pointer;
+}
+.assetTd{
+	vertical-align: top;
+}
+.crudTable{
+	margin-top: 12px;
+}
+td.buttons{
+	padding: 0px;
+	margin-top: 0px !important;
+}
+
+.ui-jqgrid-htable {
+	border-width: 0px !important;
+}
+
+.ui-jqgrid-btable {
+	border-width: 0px !important;
+}
+
+.ui-pg-selbox {
+	line-height:normal;
+	padding:0px;
+}
+
+.ui-search-input {
+	padding:1px 0px;
+}
+
+.ui-th-column div {
+	padding:0px;
+}
+
+.fluid {
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	width: 100% !important;
+	margin: 0px !important;
+	padding-top: 0px;
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-bottom: 15px;
+}
+#gridTableId tbody tr td {
+	padding:0px;
+}
+#outerBodyId {
+	padding: 0px !important;
+	margin: 0px !important;
+	width: 100% !important;
+}
+.headRow {
+	font-weight: bold !important;
+	text-decoration:underline !important;
+	background-color:#ffffff !important;
+	width:100px;
+}
+.leftCells {
+	width: 4% !important;
+	background-color:#ffffff;
+}
+.conflictApp {
+	margin-top: 20px;
+	padding-bottom: 20px;
+	border-width: 0px;
+}
+.conflictAppBody {
+	padding-right:20px !important;
+	border-width: 0px;
+}
+.inlineLink {
+	display: inline !important;
+	
+}
+.inlineLink:hover {
+	text-decoration: underline !important;
+}
+
+svg {
+	border: 1px solid blue;
+	padding: 0px !important;
+	margin: 0px !important;
+}
+#mapResizerId {
+	float:right;
+	vertical-align:bottom;
+}
+
+#mapReferenceId {
+	width: 240px;
+}
+#mapReferenceId tr td{
+	border-left: 1px solid green;
+	border-right: 1px solid green;
+	text-align: center;
+	width: auto;
+	cursor: pointer;
+}
+.ynselect{
+	max-width: 50px !important;
+}
+.iFrame {
+   display : none;
+   visibility : hidden;
+   height: 1px;
+}
+
+#staffFilterId {
+	max-width: 1000px;
+}
+.uncheckedStaff {
+	background: #ff0000 !important;
+}
+.checkedStaff {
+	background: #99ff99;
+}
+.checkedStaffTemp {
+	background: #00ff00;
+}
+.unavailibleStaff {
+	background: #ffaaaa;
+}
+.ui-dialog .ui-dialog-titlebar-close span {
+display: block;
+margin: -8px !important;
+}
+.ui-widget-content{
+	color: black !important;
+    font-weight:normal !important;
+    width:105px;
+}
+.assetDependent .ui-widget-content{
+	color: black !important;
+    font-weight:normal !important;
+    width:85px !important;
+}
+.ui-autocomplete{
+	width:132px !important;
+}
+.custom-combobox-input {
+	padding:3px !important;
+}
+.combo-td {
+    width: 120px !important;
+}
+.depSelect {
+    width: 135px
+}
+.modelSelect {
+	width: 140px !important;
+}
+
+.ui-jqgrid-htable thead {
+	z-index: 15 !important;
+	border-bottom: 1px solid #CCCCCC !important;
+	background-color: white !important;
+}
+.SuffleImage {
+	height: 16px;
+	margin-left: 60px;
+	margin-top: -10px;
+	position: absolute;
+	width: 16px;
+	z-index: 1;
+	cursor:pointer;
+}
+.suffleSelect{
+	margin-top:10px !important;
+}
+.suffleTd{
+	position:relative !important;
+}
+.planBundleSel{
+	margin-left: 274px;
+    margin-top: -28px;
+    position: absolute;
+}
+.assetLink{
+	color : blue;
+	cursor: pointer;
+}
+.ui-dialog th {
+	background: #CCCCCC !important;
+    color: #000 !important;
+}
+th.asc{
+	background-image: url(../images/skin/sorted_asc.gif);
+	background-position: right;
+    background-repeat: no-repeat;
+}
+th.desc{
+    background-image: url(../images/skin/sorted_desc.gif);
+    background-position: right;
+    background-repeat: no-repeat;
+}
+
+    /* For tooltip -- Start */
+.ui-tooltip, .arrow:after {
+	background-color:  #F3F4F6 !important;
+}
+.ui-tooltip {
+	padding: 10px 20px;
+	color: white;
+	border-radius: 20px !important;
+	font: bold 14px Helvetica, Sans-Serif;
+	box-shadow: 0 0 7px black;
+}
+.arrow {
+	width: 70px;
+	height: 16px;
+	overflow: hidden;
+	position: absolute;
+	left: 50%;
+	margin-left: -35px;
+	bottom: -16px;
+}
+.arrow.top {
+	top: -16px;
+	bottom: auto;
+}
+.arrow.left {
+	left: 20%;
+}
+.arrow:after {
+	content: "";
+	position: absolute;
+	left: 20px;
+	top: -20px;
+	width: 25px;
+	height: 25px;
+	box-shadow: 6px 5px 9px -9px black;
+	-webkit-transform: rotate(45deg);
+	-moz-transform: rotate(45deg);
+	-ms-transform: rotate(45deg);
+	-o-transform: rotate(45deg);
+	transform: rotate(45deg);
+}
+.arrow.top:after {
+	bottom: -20px;
+	top: auto;
+}
+.depBundle {
+	width: 70px
+}
+/* --- Tooltip end---*/
+.controlPanelprop{
+	width: 32px;
+	margin-left: -4px;
+	border: 0px;
+	background-color: #FFF;
+	text-align: center;
+}
+
+.power {
+	display: block;
+}
+
+.nonPower {
+	display: none;
+}
+br.page-break-after {
+	page-break-after: always;
+}
+.colorGrey{
+	color: grey;
+}
+.nodisplay{
+	display: none;
+}
+.prefButton{
+	margin-left:15px;
+	cursor: pointer;
+}
+.customizeSelect{
+	position:relative;
+	float:right;
+	margin-top: -15px;
+}
+.customizeDiv{
+	background-color: #F8F8F8 ;
+	height: 300px !important;
+	position: fixed !important; 
+	margin-top: 4px;
+	width:auto;
+	z-index: 100; 
+	overflow-y: scroll !important;
+	text-align: left;
+}

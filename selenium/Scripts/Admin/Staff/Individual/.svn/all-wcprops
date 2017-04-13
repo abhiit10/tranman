@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/tdstm/!svn/ver/2238/trunk/selenium/Scripts/Admin/Staff/Individual
+END
+Staff_Read
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/tdstm/!svn/ver/2238/trunk/selenium/Scripts/Admin/Staff/Individual/Staff_Read
+END
+Staff_Edit
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/tdstm/!svn/ver/2238/trunk/selenium/Scripts/Admin/Staff/Individual/Staff_Edit
+END
+Staff_Delete
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/tdstm/!svn/ver/1998/trunk/selenium/Scripts/Admin/Staff/Individual/Staff_Delete
+END
+Staff_Create
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/tdstm/!svn/ver/2238/trunk/selenium/Scripts/Admin/Staff/Individual/Staff_Create
+END

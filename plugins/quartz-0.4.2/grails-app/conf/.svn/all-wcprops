@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/tdstm/!svn/ver/1216/trunk/plugins/quartz-0.4.2/grails-app/conf
+END
+quartz.properties
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/tdstm/!svn/ver/1216/trunk/plugins/quartz-0.4.2/grails-app/conf/quartz.properties
+END
+QuartzBootStrap.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/tdstm/!svn/ver/1216/trunk/plugins/quartz-0.4.2/grails-app/conf/QuartzBootStrap.groovy
+END
+DefaultQuartzConfig.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/tdstm/!svn/ver/1216/trunk/plugins/quartz-0.4.2/grails-app/conf/DefaultQuartzConfig.groovy
+END

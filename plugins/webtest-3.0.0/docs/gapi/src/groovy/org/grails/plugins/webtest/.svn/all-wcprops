@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/tdstm/!svn/ver/1216/trunk/plugins/webtest-3.0.0/docs/gapi/src/groovy/org/grails/plugins/webtest
+END
+WebTestPluginBuildListener.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/tdstm/!svn/ver/1216/trunk/plugins/webtest-3.0.0/docs/gapi/src/groovy/org/grails/plugins/webtest/WebTestPluginBuildListener.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/tdstm/!svn/ver/1216/trunk/plugins/webtest-3.0.0/docs/gapi/src/groovy/org/grails/plugins/webtest/package-frame.html
+END
+WebTestCase.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/tdstm/!svn/ver/1216/trunk/plugins/webtest-3.0.0/docs/gapi/src/groovy/org/grails/plugins/webtest/WebTestCase.html
+END
+DummyPrinter.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/tdstm/!svn/ver/1216/trunk/plugins/webtest-3.0.0/docs/gapi/src/groovy/org/grails/plugins/webtest/DummyPrinter.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/tdstm/!svn/ver/1216/trunk/plugins/webtest-3.0.0/docs/gapi/src/groovy/org/grails/plugins/webtest/package-summary.html
+END
+GroovyInvoker.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/tdstm/!svn/ver/1216/trunk/plugins/webtest-3.0.0/docs/gapi/src/groovy/org/grails/plugins/webtest/GroovyInvoker.html
+END
